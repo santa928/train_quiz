@@ -27,6 +27,9 @@ import urllib.parse
 import urllib.request
 
 API_URL = "https://commons.wikimedia.org/w/api.php"
+RETRY_STATUS = {429, 503}
+MAX_RETRIES = 10
+RETRY_BACKOFF = 5.0
 
 
 def parse_args() -> argparse.Namespace:
@@ -43,9 +46,22 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def open_with_retry(req: urllib.request.Request) -> urllib.request.addinfourl:
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            return urllib.request.urlopen(req)
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            if exc.code not in RETRY_STATUS:
+                raise
+            time.sleep(RETRY_BACKOFF * attempt)
+    raise last_error
+
+
 def get_json(url: str, user_agent: str) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": user_agent})
-    with urllib.request.urlopen(req) as resp:
+    with open_with_retry(req) as resp:
         return json.load(resp)
 
 
@@ -117,7 +133,7 @@ def ensure_parent(path: str) -> None:
 
 def download_file(url: str, path: str, user_agent: str) -> None:
     req = urllib.request.Request(url, headers={"User-Agent": user_agent})
-    with urllib.request.urlopen(req) as resp, open(path, "wb") as f:
+    with open_with_retry(req) as resp, open(path, "wb") as f:
         f.write(resp.read())
 
 

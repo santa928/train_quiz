@@ -6,7 +6,8 @@
 - 4択 × 5問の写真クイズ
 - スマホ向けの大きいボタン＆音なし演出
 - ライセンス明記の実写写真（Wikimedia Commons等）を使う前提のクレジット表示
-- 出題路線データは20件（追加で拡充可能）
+- 出題路線データは74件（JR / 東京メトロ / 都営 / 私鉄）
+- 新幹線・モノレール・AGT/新交通は除外
 
 ## 起動方法（Docker Compose）
 ```bash
@@ -39,7 +40,7 @@ docker compose up --build
 `tools/commons_images.json` に追加したい車両を追記し、以下で取得できます。
 
 ```bash
-python3 tools/fetch_commons_images.py --input tools/commons_images.json --lines-out tmp/commons_lines.json --sleep 1.0
+python3 tools/fetch_commons_images.py --input tools/commons_images.json --lines-out tmp/commons_lines.json --sleep 4.0
 ```
 
 出力された `tmp/commons_lines.json` を参考に `app/data/lines.js` を更新してください。

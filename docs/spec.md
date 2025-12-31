@@ -31,7 +31,7 @@
 - `credit.sourceName`: 出典名
 - `credit.sourceUrl`: 出典URL
 - `credit.license`: 利用条件の記載
-- 登録路線数: 20件（追加で拡充可能）
+- 登録路線数: 74件（追加で拡充可能）
 
 ## クレジット方針
 - ライセンスが明記された実写写真のみ使用（Wikimedia Commons 等）

@@ -1,0 +1,520 @@
+[
+  {
+    "lineName": "山手線",
+    "page": "山手線",
+    "image": "Yamanote-Line-E235.jpg",
+    "caption": "山手線の[[JR東日本E235系電車|E235系電車]]<br/>（[[恵比寿駅]] - [[渋谷駅]]間）",
+    "series": "E235系"
+  },
+  {
+    "lineName": "京浜東北線",
+    "page": "京浜東北線",
+    "image": "20230911 JR East E233-1000 115 entering Shinagawa Station.jpg",
+    "caption": "主力車両の[[JR東日本E233系電車#1000番台|E233系1000番台]]<br>（2023年9月 [[品川駅]]）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "中央線快速",
+    "page": "中央線快速",
+    "image": "JRE Series-E233-T4 12cars.jpg",
+    "caption": "中央線快速で運用される[[JR東日本E233系電車#0番台|E233系0番台]]<br />（2025年2月4日 [[東小金井駅]] - [[武蔵境駅]]間）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "中央・総武線各駅停車",
+    "page": "中央・総武緩行線",
+    "image": "Series E231-500 A536 A509.jpg",
+    "caption": "主力車両の[[JR東日本E231系電車#500番台|E231系500番台]]<br>（2022年9月 [[御茶ノ水駅|御茶ノ水]] - [[水道橋駅|水道橋]]間）",
+    "series": "E231系"
+  },
+  {
+    "lineName": "総武快速線",
+    "page": "総武快速線",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "横須賀線",
+    "page": "横須賀線",
+    "image": "横須賀線・総武線.jpg",
+    "caption": "横須賀線を走行する[[JR東日本E235系電車#1000番台|E235系1000番台]]<br>（2021年6月 [[鎌倉駅]] - [[逗子駅]]間）",
+    "series": "E235系"
+  },
+  {
+    "lineName": "東海道線",
+    "page": "東海道線",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "上野東京ライン",
+    "page": "上野東京ライン",
+    "image": "Ueno tokyo line E231.JPG",
+    "caption": "上野駅 - 東京駅間を走行する[[JR東日本E231系電車#近郊タイプ|E231系1000番台]]<br />（2015年3月 [[御徒町駅]]）",
+    "series": "E231系"
+  },
+  {
+    "lineName": "湘南新宿ライン",
+    "page": "湘南新宿ライン",
+    "image": "JRE Series-E231-1000 K26.jpg",
+    "caption": "湘南新宿ライン（山手貨物線）を走行する[[JR東日本E231系電車#近郊タイプ|E231系]]<br />（2022年8月 [[新宿駅]] - [[渋谷駅]]間）",
+    "series": "E231系"
+  },
+  {
+    "lineName": "埼京線",
+    "page": "埼京線",
+    "image": "Saikyo-Line E233-7000 127F.jpg",
+    "caption": "[[さいたま新都心]]地区を走行する[[JR東日本E233系電車#7000番台|E233系電車]]<br />（2021年6月17日 [[北与野駅]]）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "京葉線",
+    "page": "京葉線",
+    "image": "Keiyo-Line-SeriesE233-209.jpg",
+    "caption": "京葉線を走る[[JR東日本209系電車#500番台|209系500番台]]と[[JR東日本E233系電車#5000番台|E233系5000番台]]<br>（2020年10月 [[新木場駅]]）",
+    "series": "209系"
+  },
+  {
+    "lineName": "武蔵野線",
+    "page": "武蔵野線",
+    "image": "E231_Musashino-Line.jpg",
+    "caption": "武蔵野線を走行する[[JR東日本E231系電車#0番台|E231系0番台]]<br>（2019年11月26日 [[府中本町駅]] - [[北府中駅]]間）",
+    "series": "E231系"
+  },
+  {
+    "lineName": "南武線",
+    "page": "南武線",
+    "image": "Series-E233-8000-N10.jpg",
+    "caption": "南武線で使用される[[JR東日本E233系電車#8000番台|E233系8000番台]]<br>（2020年11月1日 [[鹿島田駅]]）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "横浜線",
+    "page": "横浜線",
+    "image": "Series-E233-6000-H002.jpg",
+    "caption": "主力車両の[[JR東日本E233系電車#6000番台|E233系6000番台]]<br>（2020年11月1日 [[相原駅]]）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "青梅線",
+    "page": "青梅線",
+    "image": "Ome Line E233 Futamatao-Ikusabata.jpg",
+    "caption": "青梅線を走行する[[JR東日本E233系電車#0番台|E233系電車]]<br/>（2011年7月 [[二俣尾駅]] - [[軍畑駅]]間）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "五日市線",
+    "page": "五日市線",
+    "image": "File:Series E233 in Itsukaichi Line between Higashi-Akiru and Kumagawa.jpg",
+    "caption": "熊川駅 - 東秋留駅間の[[多摩川]]橋梁を渡る<br />[[JR東日本E233系電車|E233系電車]]（2022年5月）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "八高線",
+    "page": "八高線",
+    "image": "JR East E231-3000 series Hachikō Line 20180302.jpg",
+    "caption": "[[小宮駅]] - [[北八王子駅]]間を走行する<br>[[JR東日本E231系電車#3000番台|E231系3000番台]]",
+    "series": "E231系"
+  },
+  {
+    "lineName": "常磐線快速",
+    "page": "常磐線快速電車",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "常磐線各駅停車",
+    "page": "常磐線各駅停車",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "宇都宮線",
+    "page": "宇都宮線",
+    "image": "Series-E233-3000-U627.jpg",
+    "caption": "宇都宮線を走る[[JR東日本E233系電車#3000番台|E233系3000番台]]<br>（[[東大宮駅]] - [[蓮田駅]]間、2021年2月）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "高崎線",
+    "page": "高崎線",
+    "image": "Takasaki-Line-E233-Fukaya-STA.jpg",
+    "caption": "高崎線を走行する[[JR東日本E233系電車#3000番台|E233系3000番台]]<br>（2021年2月 [[深谷駅]]）",
+    "series": "E233系"
+  },
+  {
+    "lineName": "銀座線",
+    "page": "東京メトロ銀座線",
+    "image": "Ginza-Line-Series1031.jpg",
+    "caption": "銀座線を走る[[東京メトロ1000系電車|1000系]]電車<br>（2017年2月8日 渋谷駅 - 表参道駅間）",
+    "series": "1000系"
+  },
+  {
+    "lineName": "丸ノ内線",
+    "page": "東京メトロ丸ノ内線",
+    "image": "Marunouchi-Line Series2000-2025.jpg",
+    "caption": "丸ノ内線で運用される[[東京メトロ2000系電車|2000系]]<br>（2021年8月1日 [[四ツ谷駅]]）",
+    "series": "2000系"
+  },
+  {
+    "lineName": "日比谷線",
+    "page": "東京メトロ日比谷線",
+    "image": "Tokyo Metro 13000 series at Minami-Senju Station 2019-05-04 (48528352786).jpg",
+    "caption": "日比谷線で運用される[[東京メトロ13000系電車|13000系]]<br>（2019年5月、[[三ノ輪駅]] - [[南千住駅]]間）",
+    "series": "13000系"
+  },
+  {
+    "lineName": "東西線",
+    "page": "東京メトロ東西線",
+    "image": "Tokyo-Metro_Series15000-15001.jpg",
+    "caption": "東西線で運用される[[東京メトロ15000系電車|15000系]]<br>（2022年5月、[[妙典駅]] - [[行徳駅]]間）",
+    "series": "15000系"
+  },
+  {
+    "lineName": "千代田線",
+    "page": "東京メトロ千代田線",
+    "image": "Tokyo Metro 16000 series 16107 Yoyogi-uehara 20110704.jpg",
+    "caption": "[[代々木上原駅]]に入線する16000系2次車",
+    "series": "16000系"
+  },
+  {
+    "lineName": "有楽町線",
+    "page": "東京メトロ有楽町線",
+    "image": "Tokyo-Metro-Series17000 17005.jpg",
+    "caption": "有楽町線で使用される[[東京メトロ17000系電車|17000系]]電車<br>（2021年6月、[[和光市駅]] - [[地下鉄成増駅]]間）",
+    "series": "17000系"
+  },
+  {
+    "lineName": "半蔵門線",
+    "page": "東京メトロ半蔵門線",
+    "image": "Hanzomon-Line Series18000-18005.jpg",
+    "caption": "半蔵門線で運用される[[東京メトロ18000系電車|18000系]]<br>（2024年2月、[[住吉駅 (東京都) |住吉駅]]）",
+    "series": "18000系"
+  },
+  {
+    "lineName": "南北線",
+    "page": "東京メトロ南北線",
+    "image": "Tokyo-Metro Series9000R-9803.jpg",
+    "caption": "南北線で運用される[[営団9000系電車|9000系]]<br>（2022年10月26日 [[東急目黒線]] [[田園調布駅]] - [[多摩川駅]] ）",
+    "series": "9000系"
+  },
+  {
+    "lineName": "副都心線",
+    "page": "東京メトロ副都心線",
+    "image": "File:Tokyo-Metro Series17000-17192 Shibuya-STA.jpg",
+    "caption": "[[渋谷駅]]に停車する[[東京メトロ17000系電車|17000系]]（2024年12月）",
+    "series": "17000系"
+  },
+  {
+    "lineName": "都営浅草線",
+    "page": "都営地下鉄浅草線",
+    "image": "Asakusa-Line Series5500-5503.jpg",
+    "caption": "浅草線で使用される[[東京都交通局5500形電車 (鉄道)|5500形電車]]<br>（2023年6月 [[西馬込駅]]）",
+    "series": "5500形"
+  },
+  {
+    "lineName": "都営三田線",
+    "page": "都営地下鉄三田線",
+    "image": "Toei Series6500-6510.jpg",
+    "caption": "三田線で運用される[[東京都交通局6500形電車 (鉄道)|6500形電車]]<br/>（2025年11月 [[新高島平駅]]）",
+    "series": "6500形"
+  },
+  {
+    "lineName": "都営新宿線",
+    "page": "都営地下鉄新宿線",
+    "image": "Shinjuku-Line Series10-300 10-629.jpg",
+    "caption": "新宿線で使用される[[東京都交通局10-300形電車|10-300形]]<br>（2022年11月、[[船堀駅]]）",
+    "series": "10-300形"
+  },
+  {
+    "lineName": "都営大江戸線",
+    "page": "都営地下鉄大江戸線",
+    "image": "Toei_12-600(Batch_3)_69F.jpg",
+    "caption": "新江古田駅に停車する[[東京都交通局12-600形電車|12-600形]]（3次車）<br/>（2021年6月）",
+    "series": "12-600形"
+  },
+  {
+    "lineName": "都電荒川線",
+    "page": "都電荒川線",
+    "image": null,
+    "caption": null,
+    "series": "7700形"
+  },
+  {
+    "lineName": "京王線",
+    "page": "京王線",
+    "image": "Keio Series5000-5737 Keio-Liner-36.jpg",
+    "caption": "[[京王5000系電車 (2代)|5000系]]による[[京王ライナー]]<br>（2023年1月 [[桜上水駅]]）",
+    "series": "5000系"
+  },
+  {
+    "lineName": "京王新線",
+    "page": "京王新線",
+    "image": "File:Tokyo-to 10-300 series 10-490F.jpg",
+    "caption": "京王新線を走る都営[[東京都交通局10-300形電車|10-300形]]電車<br>（2013年9月 [[笹塚駅]]）",
+    "series": "10-300形"
+  },
+  {
+    "lineName": "京王相模原線",
+    "page": "京王相模原線",
+    "image": "Keio 5734 Extra Semi Express 20190202.jpg",
+    "caption": "[[京王5000系電車 (2代)|5000系]]による区間急行<br>（2019年2月2日 京王永山駅）",
+    "series": "5000系"
+  },
+  {
+    "lineName": "京王井の頭線",
+    "page": "京王井の頭線",
+    "image": "Inokashira line Series1000.jpg",
+    "caption": "井の頭線の主力車両[[京王1000系電車 (2代)|1000系]]<br>（井の頭公園駅付近）",
+    "series": "1000系"
+  },
+  {
+    "lineName": "京王高尾線",
+    "page": "京王高尾線",
+    "image": "Keio-Takao-Line 5000.jpg",
+    "caption": "高尾線を走行する[[京王5000系電車 (2代)|5000系電車]]「[[京王ライナー#Mt.TAKAO号|Mt.TAKAO]]」号<br />（2021年11月 [[高尾駅 (東京都)|高尾駅]] - [[高尾山口駅]]間）",
+    "series": "5000系"
+  },
+  {
+    "lineName": "京王動物園線",
+    "page": "京王動物園線",
+    "image": "Keio7000 7801F Tama-zoo.jpg",
+    "caption": "側面に動物のイラストが描かれた専用車[[京王7000系電車|7000系]]7801F<br />（2011年4月3日 高幡不動 - 多摩動物公園間）",
+    "series": "7000系"
+  },
+  {
+    "lineName": "京王競馬場線",
+    "page": "京王競馬場線",
+    "image": "京王競馬場線7000系7821Fワンマン列車.JPG",
+    "caption": "競馬場線を走るワンマン列車",
+    "series": "7000系"
+  },
+  {
+    "lineName": "小田急小田原線",
+    "page": "小田急小田原線",
+    "image": "Odakyu Series70000 Hakone-7.jpg",
+    "caption": "[[小田急70000形電車|70000形GSE]]による<br />[[小田急ロマンスカー|特急ロマンスカー]]「[[はこね (列車)|はこね]]」<br />（2024年5月3日 [[栢山駅]] - [[富水駅]]間）",
+    "series": "70000形"
+  },
+  {
+    "lineName": "小田急多摩線",
+    "page": "小田急多摩線",
+    "image": "OER-Series5000-5055 Tama-line.jpg",
+    "caption": "多摩線を走行する[[小田急5000形電車 (2代)|5000形]]による急行<br>（2021年11月 黒川駅）",
+    "series": "5000形"
+  },
+  {
+    "lineName": "東急東横線",
+    "page": "東急東横線",
+    "image": "Tokyu-Toyoko-Line-5050.jpg",
+    "caption": "東横線で運用される[[東急5000系電車 (2代)#5050系|5050系]]<br>（菊名駅 - 妙蓮寺駅間 2019年8月）",
+    "series": "5050系"
+  },
+  {
+    "lineName": "東急目黒線",
+    "page": "東急目黒線",
+    "image": "Tokyu-Series3020-3821.jpg|3020系",
+    "caption": "目黒線で運用される[[東急2020系電車#3020系|3020系]]<br />（2021年6月15日 [[多摩川駅]]）",
+    "series": "3020系"
+  },
+  {
+    "lineName": "東急田園都市線",
+    "page": "東急田園都市線",
+    "image": "Tokyu_2020_series_Den-en-toshi_Line_Tana_Station_20190530.jpg",
+    "caption": "田園都市線で使用されている[[東急2020系電車|2020系]]<br>（2019年5月30日 [[田奈駅]]）",
+    "series": "2020系"
+  },
+  {
+    "lineName": "東急大井町線",
+    "page": "東急大井町線",
+    "image": "File:Tokyu-Oimachi-Line Series9000-9009.jpg|thumb|東急9000系",
+    "caption": "大井町線で運用される[[東急9000系電車|9000系]]",
+    "series": "9000系"
+  },
+  {
+    "lineName": "東急池上線",
+    "page": "東急池上線",
+    "image": "Tokyu-Series7000-7105F.jpg",
+    "caption": "池上線で運用される[[東急7000系電車 (2代)|7000系]]<br>（2021年3月14日 [[石川台駅]] - [[雪が谷大塚駅]]間）",
+    "series": "7000系"
+  },
+  {
+    "lineName": "東急多摩川線",
+    "page": "東急多摩川線",
+    "image": "Tokyu-Tamagawa-Line_Series7000-7307.jpg",
+    "caption": "東急多摩川線を走行する[[東急7000系電車 (2代)|7000系]]<br>（2021年12月 [[沼部駅]] - [[鵜の木駅]]間）",
+    "series": "7000系"
+  },
+  {
+    "lineName": "東急世田谷線",
+    "page": "東急世田谷線",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "西武池袋線",
+    "page": "西武池袋線",
+    "image": "File:Seibu-Ikebukuro-Line Series001-Ltd.Express-Chichibu.jpg",
+    "caption": "池袋線を走行する<br />[[西武001系電車|001系]]（Laview）による「[[ちちぶ (列車)|ちちぶ]]」<br />（2021年10月 [[小手指駅]] - [[西所沢駅]]間）",
+    "series": "001系"
+  },
+  {
+    "lineName": "西武新宿線",
+    "page": "西武新宿線",
+    "image": "File:Seibu-Series10000-10108F Koedo-7.jpg",
+    "caption": "新宿線を走行する[[西武10000系電車|10000系]]「[[小江戸 (列車)|小江戸]]」<br />（2022年7月 [[狭山市駅]] - [[新狭山駅]]）",
+    "series": "10000系"
+  },
+  {
+    "lineName": "西武拝島線",
+    "page": "西武拝島線",
+    "image": "Seibu-Series30000-30001 Haijima-Line Express.jpg",
+    "caption": "[[西武30000系電車|30000系電車]]による拝島線の急行<br>（2021年4月21日 [[小川駅 (東京都)|小川駅 ]]）",
+    "series": "30000系"
+  },
+  {
+    "lineName": "西武国分寺線",
+    "page": "西武国分寺線",
+    "image": "IMG seibukokubunjiline.jpg",
+    "caption": "国分寺線で使用される[[西武2000系電車#新2000系|新2000系]]と[[西武8000系電車|8000系]]<br />（2025年6月13日 [[小川駅 (東京都)|小川駅]]）",
+    "series": "2000系"
+  },
+  {
+    "lineName": "西武多摩湖線",
+    "page": "西武多摩湖線",
+    "image": "Seibu Series9000-9103.jpg",
+    "caption": "西武多摩湖線を走行する9000系<br>（2023年7月 [[武蔵大和駅]] - [[八坂駅 (東京都)|八坂駅]]間）",
+    "series": "9000系"
+  },
+  {
+    "lineName": "西武西武園線",
+    "page": "西武西武園線",
+    "image": "西武2000系(2513F編成・西武園線).jpg",
+    "caption": "西武園線",
+    "series": "2000系"
+  },
+  {
+    "lineName": "西武豊島線",
+    "page": "西武豊島線",
+    "image": "Seibu-Series2000 2072R Toshima-Line.jpg",
+    "caption": "豊島線を走行する[[西武2000系電車 |2000系]]<br />（2023年5月 [[練馬駅]]）",
+    "series": "2000系"
+  },
+  {
+    "lineName": "西武有楽町線",
+    "page": "西武有楽町線",
+    "image": "Seibu-Yurakucho-line Series6000-6016.jpg",
+    "caption": "[[新桜台駅]]に到着する[[西武6000系電車|6000系]]（2022年10月）",
+    "series": "6000系"
+  },
+  {
+    "lineName": "伊勢崎線（東武スカイツリーライン）",
+    "page": "東武スカイツリーライン",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "東武東上線",
+    "page": "東武東上線",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "東武亀戸線",
+    "page": "東武亀戸線",
+    "image": "Tobu Series10030R-11262.jpg",
+    "caption": "[[亀戸水神駅|亀戸水神]] - [[亀戸駅|亀戸]]間を走行する[[東武10000系電車#10030型|10030型]]電車<br />（2025年7月21日）",
+    "series": null
+  },
+  {
+    "lineName": "東武大師線",
+    "page": "東武大師線",
+    "image": "File:東武10030型.jpg",
+    "caption": "大師線を走行する列車（2025年4月）",
+    "series": null
+  },
+  {
+    "lineName": "京成本線",
+    "page": "京成本線",
+    "image": "Keisei-Series3000-3042.jpg",
+    "caption": "京成本線を走行する[[京成3000形電車 (2代)|3000形]]<br>（2021年3月 [[宗吾参道駅]] - [[京成酒々井駅]]間）",
+    "series": "3000形"
+  },
+  {
+    "lineName": "京成押上線",
+    "page": "京成押上線",
+    "image": "Keisei-Oshiage-line Series3700 3848.jpg",
+    "caption": "[[京成3700形電車|3700形]]による快速電車<br>（2021年7月17日 [[四ツ木駅]]）",
+    "series": "3700形"
+  },
+  {
+    "lineName": "京成金町線",
+    "page": "京成金町線",
+    "image": "Keisei-Type3500-3600-Kanamchi-Line.jpg",
+    "caption": "金町線で運用される[[京成3500形電車|3500形更新車]]と[[京成3600形電車|3600形]]（2020年10月 柴又駅）",
+    "series": "3500形"
+  },
+  {
+    "lineName": "京急本線",
+    "page": "京急本線",
+    "image": "Keikyu-1500-2100 Shinagawa.jpg",
+    "caption": "京急本線を走行する[[京急1500形電車|1500形]]と[[京急2100形電車|2100形]]<br>（2021年1月、[[品川駅]] - [[北品川駅]]間）",
+    "series": "1500形"
+  },
+  {
+    "lineName": "京急空港線",
+    "page": "京急空港線",
+    "image": "Keikyu-Type1000-113.jpg",
+    "caption": "京急空港線を走行する「エアポート快特」<br>（2023年2月 [[糀谷駅]]）",
+    "series": null
+  },
+  {
+    "lineName": "つくばエクスプレス",
+    "page": "つくばエクスプレス",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "りんかい線",
+    "page": "りんかい線",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "埼玉高速鉄道線",
+    "page": "埼玉高速鉄道線",
+    "image": "File:Saitama-Railway Urawa-Misono Station.jpg",
+    "caption": "[[浦和美園駅]]を発車する[[埼玉高速鉄道2000系電車|2000系電車]]<br>（2006年11月15日）",
+    "series": "2000系"
+  },
+  {
+    "lineName": "北総線",
+    "page": "北総線",
+    "image": null,
+    "caption": null,
+    "series": null
+  },
+  {
+    "lineName": "成田エクスプレス",
+    "page": "成田エクスプレス",
+    "image": "JRE Series-E259R-Ne003.jpg",
+    "caption": "[[JR東日本E259系電車|E259系]]による「成田エクスプレス」<br>（2024年5月 [[稲毛駅]]）",
+    "series": "E259系"
+  },
+  {
+    "lineName": "成田空港線（成田スカイアクセス線）",
+    "page": "成田空港線 (成田スカイアクセス)",
+    "image": null,
+    "caption": null,
+    "series": null
+  }
+]
