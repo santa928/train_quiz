@@ -1,0 +1,222 @@
+[
+  {
+    "id": "jr-east-yamanote-e235",
+    "lineName": "山手線",
+    "series": "E235系",
+    "image": "assets/images/yamanote-e235.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: JRE E235 series Yamanote Line train.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JRE%20E235%20series%20Yamanote%20Line%20train.jpg",
+      "license": "CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) / 撮影: yagi-s"
+    }
+  },
+  {
+    "id": "jr-east-chuo-rapid-e233",
+    "lineName": "中央線快速",
+    "series": "E233系",
+    "image": "assets/images/chuo-e233.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Chuo Line E233 series T27 Tokyo 20091218.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuo%20Line%20E233%20series%20T27%20Tokyo%2020091218.jpg",
+      "license": "Public domain / 撮影: KibaShinichi"
+    }
+  },
+  {
+    "id": "tokyo-metro-ginza-1000",
+    "lineName": "銀座線",
+    "series": "1000系",
+    "image": "assets/images/ginza-1000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo Metro 1000 20130406-01.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo%20Metro%201000%2020130406-01.JPG",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: PekePON"
+    }
+  },
+  {
+    "id": "toei-oedo-12-000",
+    "lineName": "都営大江戸線",
+    "series": "12-000形",
+    "image": "assets/images/oedo-12-000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Toei 12-000 41F (2021).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toei%2012-000%2041F%20%282021%29.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: あたまボーズ"
+    }
+  },
+  {
+    "id": "keio-8000",
+    "lineName": "京王線",
+    "series": "8000系",
+    "image": "assets/images/keio-8000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Keio-Series8000-8712.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keio-Series8000-8712.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "tokyu-denentoshi-2020",
+    "lineName": "田園都市線",
+    "series": "2020系",
+    "image": "assets/images/tokyu-2020.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyu-Series2020-2146.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyu-Series2020-2146.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "odakyu-3000",
+    "lineName": "小田急線",
+    "series": "3000形",
+    "image": "assets/images/odakyu-3000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Odakyu-Series3000 3481.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odakyu-Series3000%203481.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "tsukuba-express-2000",
+    "lineName": "つくばエクスプレス",
+    "series": "2000系",
+    "image": "assets/images/tx-2000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: TX-2000 Series 2170F 20191219.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TX-2000%20Series%202170F%2020191219.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: こけぴ"
+    }
+  },
+  {
+    "id": "tokyo-metro-marunouchi-2000",
+    "lineName": "丸ノ内線",
+    "series": "2000系",
+    "image": "assets/images/marunouchi-2000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Marunouchi-Line-Series2000 Series02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marunouchi-Line-Series2000%20Series02.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "tokyo-metro-hibiya-13000",
+    "lineName": "日比谷線",
+    "series": "13000系",
+    "image": "assets/images/hibiya-13000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo-Metro Series13000-13010.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-Metro%20Series13000-13010.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "tokyo-metro-tozai-15000",
+    "lineName": "東西線",
+    "series": "15000系",
+    "image": "assets/images/tozai-15000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo-Metro Series15000-15001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-Metro%20Series15000-15001.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "tokyo-metro-chiyoda-16000",
+    "lineName": "千代田線",
+    "series": "16000系",
+    "image": "assets/images/chiyoda-16000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: TokyoMetro-16000-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TokyoMetro-16000-01.jpg",
+      "license": "CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) / 撮影: Rs1421"
+    }
+  },
+  {
+    "id": "tokyo-metro-yurakucho-17000",
+    "lineName": "有楽町線",
+    "series": "17000系",
+    "image": "assets/images/yurakucho-17000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo Metro 17000 series 17105F.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo%20Metro%2017000%20series%2017105F.jpg",
+      "license": "CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) / 撮影: Kznrhsd"
+    }
+  },
+  {
+    "id": "tokyo-metro-hanzomon-18000",
+    "lineName": "半蔵門線",
+    "series": "18000系",
+    "image": "assets/images/hanzomon-18000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo Metro Series 18000 18102F in Eda Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo%20Metro%20Series%2018000%2018102F%20in%20Eda%20Station.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: Wikimizuki"
+    }
+  },
+  {
+    "id": "tokyo-metro-namboku-9000",
+    "lineName": "南北線",
+    "series": "9000系",
+    "image": "assets/images/namboku-9000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo Metro 9000 series 9118F (46819635534).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo%20Metro%209000%20series%209118F%20%2846819635534%29.jpg",
+      "license": "CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) / 撮影: Cheng-en Cheng"
+    }
+  },
+  {
+    "id": "tokyo-metro-fukutoshin-10000",
+    "lineName": "副都心線",
+    "series": "10000系",
+    "image": "assets/images/fukutoshin-10000.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Tokyo Metro 10000 series 10112F (40577314653).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo%20Metro%2010000%20series%2010112F%20%2840577314653%29.jpg",
+      "license": "CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) / 撮影: Cheng-en Cheng"
+    }
+  },
+  {
+    "id": "toei-asakusa-5500",
+    "lineName": "都営浅草線",
+    "series": "5500形",
+    "image": "assets/images/asakusa-5500.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Toei 5500 Series 5504F 20191109.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toei%205500%20Series%205504F%2020191109.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MEIGEO8606"
+    }
+  },
+  {
+    "id": "toei-mita-6500",
+    "lineName": "都営三田線",
+    "series": "6500形",
+    "image": "assets/images/mita-6500.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Toei Series6500-6505.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toei%20Series6500-6505.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "toei-shinjuku-10-300",
+    "lineName": "都営新宿線",
+    "series": "10-300形",
+    "image": "assets/images/shinjuku-10-300.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Toei Series10-300 10-640.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toei%20Series10-300%2010-640.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  },
+  {
+    "id": "jr-east-keihin-tohoku-e233-1000",
+    "lineName": "京浜東北線",
+    "series": "E233系1000番台",
+    "image": "assets/images/keihin-tohoku-e233.jpg",
+    "credit": {
+      "sourceName": "Wikimedia Commons: Keihin-tohoku Negishi-Line E233-1000series.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keihin-tohoku%20Negishi-Line%20E233-1000series.jpg",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) / 撮影: MaedaAkihiko"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+Title: 開発者サイト
+
+URL Source: http://developer.odpt.org/terms
+
+Published Time: Mon, 01 Dec 2025 02:12:16 GMT
+
+Markdown Content:
+開発者サイト
+===============
+
+[![Image 1: ODPT Logo](http://developer.odpt.org/ODPT_logo_wh.png)](http://developer.odpt.org/)
+
+公共交通オープンデータセンター開発者サイト
+=====================
+
+The Developer Site for ODPT
+---------------------------
+
+[Published Open Data](https://ckan.odpt.org/dataset)[Rules/Guidelines](http://developer.odpt.org/terms)[Login](http://developer.odpt.org/login)
+
+Rules/Guidelines
+================
+
+*   [Terms of Use of Public Transportation Open Data Center](http://developer.odpt.org/terms/center_use_rules.html)
+*   [Public Transportation Open Data Basic License](http://developer.odpt.org/terms/data_basic_license.html)
+*   [Public Transportation Open Data Developer Guideline](http://developer.odpt.org/terms/data_basic_use_guideline.html)
+*   [Public Transportation Open Data Challenge Limited License](http://developer.odpt.org/challenge_license)
+
+Copyright © Association for Open Data of Public Transportation[Privacy policy](https://www.odpt.org/privacy-policy/)

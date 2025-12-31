@@ -1,0 +1,4 @@
+services:
+  web:
+    volumes:
+      - ./:/usr/share/nginx/html:ro

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "jr-east-yamanote-e235",
+    "lineName": "山手線",
+    "series": "E235系",
+    "file_title": "File:JRE E235 series Yamanote Line train.jpg",
+    "output": "assets/images/yamanote-e235.jpg"
+  },
+  {
+    "id": "jr-east-chuo-rapid-e233",
+    "lineName": "中央線快速",
+    "series": "E233系",
+    "file_title": "File:Chuo Line E233 series T27 Tokyo 20091218.jpg",
+    "output": "assets/images/chuo-e233.jpg"
+  },
+  {
+    "id": "tokyo-metro-ginza-1000",
+    "lineName": "銀座線",
+    "series": "1000系",
+    "file_title": "File:Tokyo Metro 1000 20130406-01.JPG",
+    "output": "assets/images/ginza-1000.jpg"
+  },
+  {
+    "id": "toei-oedo-12-000",
+    "lineName": "都営大江戸線",
+    "series": "12-000形",
+    "file_title": "File:Toei 12-000 41F (2021).jpg",
+    "output": "assets/images/oedo-12-000.jpg"
+  },
+  {
+    "id": "keio-8000",
+    "lineName": "京王線",
+    "series": "8000系",
+    "file_title": "File:Keio-Series8000-8712.jpg",
+    "output": "assets/images/keio-8000.jpg"
+  },
+  {
+    "id": "tokyu-denentoshi-2020",
+    "lineName": "田園都市線",
+    "series": "2020系",
+    "file_title": "File:Tokyu-Series2020-2146.jpg",
+    "output": "assets/images/tokyu-2020.jpg"
+  },
+  {
+    "id": "odakyu-3000",
+    "lineName": "小田急線",
+    "series": "3000形",
+    "file_title": "File:Odakyu-Series3000 3481.jpg",
+    "output": "assets/images/odakyu-3000.jpg"
+  },
+  {
+    "id": "tsukuba-express-2000",
+    "lineName": "つくばエクスプレス",
+    "series": "2000系",
+    "file_title": "File:TX-2000 Series 2170F 20191219.jpg",
+    "output": "assets/images/tx-2000.jpg"
+  },
+  {
+    "id": "tokyo-metro-marunouchi-2000",
+    "lineName": "丸ノ内線",
+    "series": "2000系",
+    "file_title": "File:Marunouchi-Line-Series2000 Series02.jpg",
+    "output": "assets/images/marunouchi-2000.jpg"
+  },
+  {
+    "id": "tokyo-metro-hibiya-13000",
+    "lineName": "日比谷線",
+    "series": "13000系",
+    "file_title": "File:Tokyo-Metro Series13000-13010.jpg",
+    "output": "assets/images/hibiya-13000.jpg"
+  },
+  {
+    "id": "tokyo-metro-tozai-15000",
+    "lineName": "東西線",
+    "series": "15000系",
+    "file_title": "File:Tokyo-Metro Series15000-15001.jpg",
+    "output": "assets/images/tozai-15000.jpg"
+  },
+  {
+    "id": "tokyo-metro-chiyoda-16000",
+    "lineName": "千代田線",
+    "series": "16000系",
+    "file_title": "File:TokyoMetro-16000-01.jpg",
+    "output": "assets/images/chiyoda-16000.jpg"
+  },
+  {
+    "id": "tokyo-metro-yurakucho-17000",
+    "lineName": "有楽町線",
+    "series": "17000系",
+    "file_title": "File:Tokyo Metro 17000 series 17105F.jpg",
+    "output": "assets/images/yurakucho-17000.jpg"
+  },
+  {
+    "id": "tokyo-metro-hanzomon-18000",
+    "lineName": "半蔵門線",
+    "series": "18000系",
+    "file_title": "File:Tokyo Metro Series 18000 18102F in Eda Station.jpg",
+    "output": "assets/images/hanzomon-18000.jpg"
+  },
+  {
+    "id": "tokyo-metro-namboku-9000",
+    "lineName": "南北線",
+    "series": "9000系",
+    "file_title": "File:Tokyo Metro 9000 series 9118F (46819635534).jpg",
+    "output": "assets/images/namboku-9000.jpg"
+  },
+  {
+    "id": "tokyo-metro-fukutoshin-10000",
+    "lineName": "副都心線",
+    "series": "10000系",
+    "file_title": "File:Tokyo Metro 10000 series 10112F (40577314653).jpg",
+    "output": "assets/images/fukutoshin-10000.jpg"
+  },
+  {
+    "id": "toei-asakusa-5500",
+    "lineName": "都営浅草線",
+    "series": "5500形",
+    "file_title": "File:Toei 5500 Series 5504F 20191109.jpg",
+    "output": "assets/images/asakusa-5500.jpg"
+  },
+  {
+    "id": "toei-mita-6500",
+    "lineName": "都営三田線",
+    "series": "6500形",
+    "file_title": "File:Toei Series6500-6505.jpg",
+    "output": "assets/images/mita-6500.jpg"
+  },
+  {
+    "id": "toei-shinjuku-10-300",
+    "lineName": "都営新宿線",
+    "series": "10-300形",
+    "file_title": "File:Toei Series10-300 10-640.jpg",
+    "output": "assets/images/shinjuku-10-300.jpg"
+  },
+  {
+    "id": "jr-east-keihin-tohoku-e233-1000",
+    "lineName": "京浜東北線",
+    "series": "E233系1000番台",
+    "file_title": "File:Keihin-tohoku Negishi-Line E233-1000series.jpg",
+    "output": "assets/images/keihin-tohoku-e233.jpg"
+  }
+]

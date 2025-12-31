@@ -1,0 +1,50 @@
+Title: エラー 404 - 東京都オープンデータカタログサイト
+
+URL Source: http://catalog.data.metro.tokyo.lg.jp/dataset/t000000d0000000074
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+エラー 404 - 東京都オープンデータカタログサイト
+===============
+
+[スキップして内容へ](http://catalog.data.metro.tokyo.lg.jp/dataset/t000000d0000000074#content)
+
+*   [ログイン](http://catalog.data.metro.tokyo.lg.jp/user/login)
+
+[![Image 1: 東京都オープンデータカタログサイト](http://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/tokyo-od-logo.png)](https://portal.data.metro.tokyo.lg.jp/)
+
+*   [データセット](http://catalog.data.metro.tokyo.lg.jp/dataset)
+*   [組織](http://catalog.data.metro.tokyo.lg.jp/organization)
+*   [カテゴリ](http://catalog.data.metro.tokyo.lg.jp/group)
+*   [About](http://catalog.data.metro.tokyo.lg.jp/about)
+
+データセットを検索 
+
+[都庁総合トップ](https://www.metro.tokyo.lg.jp/ "都庁総合トップを新規ウィンドウで開きます")
+
+404 Not Found
+===============
+
+404 Not Found
+=============
+
+ The resource could not be found.
+
+ データセットが見つかりません 
+
+*   [About 東京都オープンデータカタログサイト](http://catalog.data.metro.tokyo.lg.jp/about)
+
+*   [CKAN API](http://docs.ckan.org/en/2.8/api/)
+*   [CKANアソシエーション](http://www.ckan.org/)
+*   [![Image 2: Open Data](http://catalog.data.metro.tokyo.lg.jp/base/images/od_80x15_blue.png)](http://www.opendefinition.org/okd/)
+
+**Powered by**[CKAN](http://ckan.org/)
+
+言語 
+
+[日本語](javascript:void(0))言語 
+
+言語 
+
+Go

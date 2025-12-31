@@ -1,0 +1,72 @@
+Title: 東京メトロ 画像情報(鉄道関連) / Image data (railway-related) of Tokyo Metro - 公共交通オープンデータセンター データカタログサイト
+
+URL Source: http://ckan.odpt.org/dataset/r_image-tokyometro
+
+Markdown Content:
+東京メトロ 画像情報(鉄道関連) / Image data (railway-related) of Tokyo Metro - データセット - 公共交通オープンデータセンター データカタログサイト
+===============
+
+[スキップして内容へ](http://ckan.odpt.org/dataset/r_image-tokyometro#content)
+
+Toggle navigation
+
+[![Image 1: 公共交通オープンデータセンター](http://ckan.odpt.org/images/dc-logo.png)](https://www.odpt.org/)
+
+*   [データセット](http://ckan.odpt.org/dataset/)
+*   [組織](http://ckan.odpt.org/organization/)
+*   [グループ](http://ckan.odpt.org/group/)
+*   [About](http://ckan.odpt.org/about)
+
+データセットを検索 
+
+1.   [ホーム](http://ckan.odpt.org/)
+2.   [組織](http://ckan.odpt.org/organization/)
+3.   [東京メトロ / Tokyo Metro](http://ckan.odpt.org/organization/tokyometro)
+4.   [東京メトロ 画像情報(鉄道関連) / Image...](http://ckan.odpt.org/dataset/r_image-tokyometro)
+
+東京メトロ 画像情報(鉄道関連) / Image data (railway-related) of Tokyo Metro
+==============================================================
+
+組織
+--
+
+[![Image 2: tokyometro](http://ckan.odpt.org/base/images/placeholder-organization.png)](http://ckan.odpt.org/organization/tokyometro)
+
+東京メトロ / Tokyo Metro
+===================
+
+ライセンス
+-----
+
+[公共交通オープンデータ基本ライセンス / Public Transportation Open Data Basic License](https://developer.odpt.org/terms)
+
+*   [データセット](http://ckan.odpt.org/dataset/r_image-tokyometro)
+
+東京メトロ 画像情報(鉄道関連) / Image data (railway-related) of Tokyo Metro
+==============================================================
+
+東京メトロの画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Tokyo Metro
+
+公共交通オープンデータ基本ライセンスの特定利用条件をよく読んで、ご利用ください。 / Read "Specific Terms of Use" in "Public Transportation Open Data Basic License" before use.
+
+※特定利用条件にある「東京メトロ画像データ利用条件」は、提供ZIPファイル中にPDF形式で同梱されています。 / A PDF file of "東京メトロ画像データ利用条件" stated in the "Specific Terms of Use" is included in the ZIP file.
+
+### データとリソース
+
+*   [駅ナンバリング画像および路線シンボルマーク / Station number icons...ZIP](http://ckan.odpt.org/dataset/r_image-tokyometro/resource/c7fdc672-c373-436c-bae2-f48a8a92b17b "駅ナンバリング画像および路線シンボルマーク / Station number icons and line symbols")
+東京メトロの駅ナンバリング画像および路線シンボルマークを提供します。 / Station number icons and line symbols of...
+
+*   [画像情報_鉄道関連-image_dat...](http://ckan.odpt.org/dataset/?tags=%E7%94%BB%E5%83%8F%E6%83%85%E5%A0%B1_%E9%89%84%E9%81%93%E9%96%A2%E9%80%A3-image_data__railway-related)
+*   [鉄道-railway](http://ckan.odpt.org/dataset/?tags=%E9%89%84%E9%81%93-railway)
+
+*   [公共交通オープンデータ協議会](https://www.odpt.org/)
+
+**Powered by** CKAN
+
+言語 
+
+[日本語](javascript:void(0))言語 
+
+言語 
+
+Go

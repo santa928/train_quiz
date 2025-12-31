@@ -1,0 +1,405 @@
+Title: 車両シリーズ　壁紙｜東京メトロ
+
+URL Source: http://www.tokyometro.jp/enjoy/wallpaper/train/index.html
+
+Markdown Content:
+車両シリーズ 壁紙｜東京メトロ
+===============
+
+![Image 1: logo](blob:http://localhost/b1e721e4fc717a79ecbb83212e06fd28)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/)
+
+*   [Consent](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+*   [Details](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+*   [[#IABV2SETTINGS#]](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+*   [About](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. 
+
+Consent Selection
+
+**Necessary** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing** 
+
+- [x] 
+
+[Show details](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+Details
+
+*   
+Necessary  3- [x]   Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+    *   [Cookiebot 1](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)[Learn more about this provider![Image 2](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")**CookieConsent**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [sdk.alli.ai 1](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)**__mp_opt_in_out_#**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [www.tokyometro.jp 1](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)**BIGipServer#**Used to distribute traffic to the website on several servers in order to optimise response times.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+
+*   
+Preferences  1- [x]   Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. 
+
+    *   [Google 1](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)[Learn more about this provider![Image 3](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Google's privacy policy")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**maps/gen_204**Used in context with the website's map integration. The cookie stores user interaction with the map in order to optimize its functionality.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+
+*   
+Statistics  1- [x]   Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
+
+    *   [Google 1](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)[Learn more about this provider![Image 4](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Google's privacy policy")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_dc_gtm_UA-#**Used by Google Tag Manager to control the loading of a Google Analytics script tag.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+
+*   
+Marketing  5- [x]   Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. 
+
+    *   [Google 3](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)[Learn more about this provider![Image 5](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Google's privacy policy")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_ga_#**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_gid**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [sdk.alli.ai 2](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)**mp_#_mixpanel[x2]**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+
+*   Unclassified 11 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [sdk.alli.ai 4](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)**mp_gen_new_tab_id_alli-sdk-2.35.87-mixpanel_43d30fe644d966bfb094ffc7a0ee0e00**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **mp_tab_id_alli-sdk-2.35.87-mixpanel_43d30fe644d966bfb094ffc7a0ee0e00**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **mixpanelBrowserDb#mixpanelRecordingEvents**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **mixpanelBrowserDb#mixpanelRecordingRegistry**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [www.tokyometro.jp 7](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)**lang_en_station_history**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **lang_es_station_history**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **lang_kr_station_history**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **lang_tcn_station_history**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **lang_th_station_history**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **metroFontSize**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **station_history**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#) [#BULK_CONSENT_TITLE#]
+
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+
+Cookie declaration last updated on 12/3/25 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot")
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+
+Please state your consent ID and date when you contact us regarding your consent.
+
+- [x] **Do not sell or share my personal information** 
+
+OK Customize Allow selection Use necessary cookies only
+
+[ページの先頭です](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html)
+
+ページ内を移動するリンクです[サイト共通メニュー](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#globalNavStart)[本文](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#contentStart)
+
+[![Image 6: 東京メトロ](http://www.tokyometro.jp/library/common/img/logo.png)](http://www.tokyometro.jp/index.html)
+
+[ここからサイト共通メニューです](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html)
+
+[運行状況 ![Image 7](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_heijou.png)平常運転 平常運転](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+運行情報
+
+列車の運行に 15分以上の遅れが発生、または 見込まれる場合 の情報をお知らせしています。
+
+12月27日 16:29 現在[情報更新](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+*   ![Image 8: 銀座線](http://www.tokyometro.jp/library/common/img/route/icon_ginza.png)[銀座線](http://www.tokyometro.jp/unkou/history/ginza.html)![Image 9](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 10: 丸ノ内線](http://www.tokyometro.jp/library/common/img/route/icon_marunouchi.png)[丸ノ内線](http://www.tokyometro.jp/unkou/history/marunouchi.html)![Image 11](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 12: 日比谷線](http://www.tokyometro.jp/library/common/img/route/icon_hibiya.png)[日比谷線](http://www.tokyometro.jp/unkou/history/hibiya.html)![Image 13](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 14: 東西線](http://www.tokyometro.jp/library/common/img/route/icon_tozai.png)[東西線](http://www.tokyometro.jp/unkou/history/touzai.html)![Image 15](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 16: 千代田線](http://www.tokyometro.jp/library/common/img/route/icon_chiyoda.png)[千代田線](http://www.tokyometro.jp/unkou/history/chiyoda.html)![Image 17](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_heijou.png)平常運転
+*   ![Image 18: 有楽町線](http://www.tokyometro.jp/library/common/img/route/icon_yurakucho.png)[有楽町線](http://www.tokyometro.jp/unkou/history/yurakucho.html)![Image 19](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 20: 半蔵門線](http://www.tokyometro.jp/library/common/img/route/icon_hanzomon.png)[半蔵門線](http://www.tokyometro.jp/unkou/history/hanzoumon.html)![Image 21](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 22: 南北線](http://www.tokyometro.jp/library/common/img/route/icon_namboku.png)[南北線](http://www.tokyometro.jp/unkou/history/nanboku.html)![Image 23](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+*   ![Image 24: 副都心線](http://www.tokyometro.jp/library/common/img/route/icon_fukutoshin.png)[副都心線](http://www.tokyometro.jp/unkou/history/fukutoshin.html)![Image 25](http://www.tokyometro.jp/library/common/img/unkou/icon_unkou_shuuryou.png)運転終了 振替輸送なし
+
+[閉じる](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+[MENU](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+*   [遅延証明書](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+遅延証明書  
+
+    *   [![Image 26](http://www.tokyometro.jp/library/common/img/route/icon_ginza.png)銀座線](http://www.tokyometro.jp/delay/history/ginza.html)
+    *   [![Image 27](http://www.tokyometro.jp/library/common/img/route/icon_marunouchi.png)丸ノ内線](http://www.tokyometro.jp/delay/history/marunouchi.html)
+    *   [![Image 28](http://www.tokyometro.jp/library/common/img/route/icon_hibiya.png)日比谷線](http://www.tokyometro.jp/delay/history/hibiya.html)
+    *   [![Image 29](http://www.tokyometro.jp/library/common/img/route/icon_tozai.png)東西線](http://www.tokyometro.jp/delay/history/tozai.html)
+    *   [![Image 30](http://www.tokyometro.jp/library/common/img/route/icon_chiyoda.png)千代田線](http://www.tokyometro.jp/delay/history/chiyoda.html)
+    *   [![Image 31](http://www.tokyometro.jp/library/common/img/route/icon_yurakucho.png)有楽町線](http://www.tokyometro.jp/delay/history/yurakucho.html)
+    *   [![Image 32](http://www.tokyometro.jp/library/common/img/route/icon_hanzomon.png)半蔵門線](http://www.tokyometro.jp/delay/history/hanzomon.html)
+    *   [![Image 33](http://www.tokyometro.jp/library/common/img/route/icon_namboku.png)南北線](http://www.tokyometro.jp/delay/history/namboku.html)
+    *   [![Image 34](http://www.tokyometro.jp/library/common/img/route/icon_fukutoshin.png)副都心線](http://www.tokyometro.jp/delay/history/fukutoshin.html)
+
+[閉じる](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+*   [路線・駅の情報](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+路線・駅の情報
+
+[路線・駅の情報トップ](http://www.tokyometro.jp/station/index.html)  
+
+駅を探す     
+
+    *   [路線図 から探す](http://www.tokyometro.jp/station/index.html)
+    *   [50音 から探す](http://www.tokyometro.jp/station/index03.html)
+    *   [条件 から探す](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+閉じる 駅を条件から探す 
+        *   [施設・店舗 から探す](http://www.tokyometro.jp/station/search_shop/index.html)
+        *   [バリアフリー設備 から探す](http://www.tokyometro.jp/station/search_accessibility/index.html)
+
+    *   [現在地 から探す](http://www.tokyometro.jp/station/search_current_location/index.html)
+
+路線情報を見る
+
+    *   [![Image 35](http://www.tokyometro.jp/library/common/img/route/icon_ginza.png)銀座線](http://www.tokyometro.jp/station/line_ginza/index.html)
+    *   [![Image 36](http://www.tokyometro.jp/library/common/img/route/icon_marunouchi.png)丸ノ内線](http://www.tokyometro.jp/station/line_marunouchi/index.html)
+    *   [![Image 37](http://www.tokyometro.jp/library/common/img/route/icon_hibiya.png)日比谷線](http://www.tokyometro.jp/station/line_hibiya/index.html)
+    *   [![Image 38](http://www.tokyometro.jp/library/common/img/route/icon_tozai.png)東西線](http://www.tokyometro.jp/station/line_tozai/index.html)
+    *   [![Image 39](http://www.tokyometro.jp/library/common/img/route/icon_chiyoda.png)千代田線](http://www.tokyometro.jp/station/line_chiyoda/index.html)
+    *   [![Image 40](http://www.tokyometro.jp/library/common/img/route/icon_yurakucho.png)有楽町線](http://www.tokyometro.jp/station/line_yurakucho/index.html)
+    *   [![Image 41](http://www.tokyometro.jp/library/common/img/route/icon_hanzomon.png)半蔵門線](http://www.tokyometro.jp/station/line_hanzomon/index.html)
+    *   [![Image 42](http://www.tokyometro.jp/library/common/img/route/icon_namboku.png)南北線](http://www.tokyometro.jp/station/line_namboku/index.html)
+    *   [![Image 43](http://www.tokyometro.jp/library/common/img/route/icon_fukutoshin.png)副都心線](http://www.tokyometro.jp/station/line_fukutoshin/index.html)
+
+[閉じる](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+*   [運賃・のりかえ検索](http://www.tokyometro.jp/transit/index.php)
+
+*   [PASMO・定期・乗車券](http://www.tokyometro.jp/ticket/index.html)
+
+PASMO・定期・乗車券
+
+[PASMO・定期・乗車券トップ](http://www.tokyometro.jp/ticket/index.html)  
+
+    *   [PASMO](http://www.tokyometro.jp/ticket/types/pasmo/index.html)
+    *   ![Image 44](http://www.tokyometro.jp/library/common/img/img_header_pasmo.jpg)
+    *           *   [PASMO公式サイト](http://www.pasmo.co.jp/)
+
+    *   [乗車券](http://www.tokyometro.jp/ticket/types/index.html)
+    *           *   [普通券](http://www.tokyometro.jp/ticket/types/regular/index.html)
+        *   [定期券](http://www.tokyometro.jp/ticket/types/pass/index.html)
+        *   [回数券](http://www.tokyometro.jp/ticket/types/coupon/index.html)
+        *   [団体券](http://www.tokyometro.jp/ticket/types/group/index.html)
+        *   [連絡普通券](http://www.tokyometro.jp/ticket/types/connection/index.html)
+        *   [パスネット等（お取扱い終了）](http://www.tokyometro.jp/ticket/types/passnet/index.html)
+
+    *   [お得な乗車券](http://www.tokyometro.jp/ticket/value/index.html)
+    *           *   [各種一日乗車券](http://www.tokyometro.jp/ticket/value/1day/index.html)
+        *   [他社鉄道会社から東京メトロ線をご利用のお客様へ](http://www.tokyometro.jp/ticket/value/otherline/index.html)
+        *   [空港・都心間の交通手段と東京メトロ乗車券のセット](http://www.tokyometro.jp/ticket/value/airport_bus/index.html)
+        *   [旅行者のお客様へ](http://www.tokyometro.jp/ticket/value/travel/index.html)
+        *   [その他の乗車券](http://www.tokyometro.jp/ticket/value/other/index.html)
+        *   [高速バスと東京メトロ乗車券のセット](http://www.tokyometro.jp/ticket/value/express_bus/index.html)
+
+    *           *   [ちかとく（提携割引・特典サービス）](http://www.tokyometro.jp/ticket/value/chikatoku/index.html)
+        *   [多機能券売機](http://www.tokyometro.jp/ticket/pass/ticketmachine/index.html)
+        *   [定期券Web予約サービス](http://www.tokyometro.jp/ticket/pass/reservation_service/index.html)
+        *   [定期券うりば](http://www.tokyometro.jp/ticket/pass/counter/index.html)
+        *   [乗車券のご注意](http://www.tokyometro.jp/ticket/guide/index.html)
+        *   [特殊な運賃](http://www.tokyometro.jp/ticket/particularcase/index.html)
+        *   [運送約款](http://www.tokyometro.jp/ticket/terms/index.html)
+        *   [メトロポイントクラブ（メトポ）](http://www.metpo.jp/)
+        *   [Tokyo Metro To Me CARD（クレジットカード）](https://www.to-me-card.jp/)
+
+[閉じる](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+*   [安心への取組み](http://www.tokyometro.jp/safety/index.html)
+
+安心への取組み
+
+[安心への取組みトップ](http://www.tokyometro.jp/safety/index.html)  
+
+    *   [安全・防災](http://www.tokyometro.jp/safety/prevention/index.html)
+    *           *   [震災対策](http://www.tokyometro.jp/safety/prevention/earthquake/index.html)
+        *   [火災対策](http://www.tokyometro.jp/safety/prevention/fire/index.html)
+        *   [風水害対策](http://www.tokyometro.jp/safety/prevention/wind_flood/index.html)
+        *   [駅・車内の安全対策](http://www.tokyometro.jp/safety/prevention/station/index.html)
+        *   [鉄道テロ対策](http://www.tokyometro.jp/safety/prevention/terror/index.html)
+        *   [異常時対応](http://www.tokyometro.jp/safety/prevention/training/index.html)
+        *   [社員の研修・安全の研究開発](http://www.tokyometro.jp/safety/prevention/study/index.html)
+        *   [安全報告書](http://www.tokyometro.jp/safety/prevention/safety_report/index.html)
+        *   [安全ポケットガイド](http://www.tokyometro.jp/safety/prevention/safety_pocketguide/index.html)
+
+    *   [バリアフリー](http://www.tokyometro.jp/safety/barrierfree/index.html)
+
+    *   [お客様サービス](http://www.tokyometro.jp/safety/customer/index.html)
+    *   [東京メトロからのお願い](http://www.tokyometro.jp/safety/attention/index.html)
+    *           *    主な工事のご案内（リニューアル準備中）
+
+[閉じる](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+*   [メトロで楽しむ](http://www.tokyometro.jp/enjoy/index.html)
+*   [よくいただくお問い合わせ](http://www.tokyometro.jp/support/index.html)
+*   [企業情報・IR情報](http://www.tokyometro.jp/corporate/index.html)
+*   [新線プロジェクト](https://www.tokyometro-newline.jp/)
+*   [採用情報](http://www.tokyometro.jp/corporate/jobs/index.html)
+*   [法人のお客様へ](http://www.tokyometro.jp/corporate/business/index.html)
+
+[For Tourists](http://www.tokyometro.jp/en/index.html)
+
+[閉じる](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#)
+
+[ここから本文です](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html)
+
+*   [東京メトロホーム](http://www.tokyometro.jp/index.html)
+*   [メトロで楽しむ](http://www.tokyometro.jp/enjoy/index.html)
+*   [デジタルノベルティ](http://www.tokyometro.jp/enjoy/wallpaper/index.html)
+*   車両シリーズ 壁紙
+
+[メトロで楽しむ](http://www.tokyometro.jp/enjoy/index.html)
+
+車両シリーズ 壁紙
+=========
+
+各路線で活躍している車両を壁紙にしました。
+
+※個人以外でのご利用はできません。（ダウンロードの際の一切のトラブルを保証いたしかねますので、皆様ご自身の責任においてのご利用をお願いします。）
+
+車両シリーズ 壁紙
+---------
+
+銀座線 特別仕様車![Image 45](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_15.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/gin_special_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/gin_special_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/gin_special_wp_1600.jpg)
+
+銀座線 1000系![Image 46](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_14.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/gin1000_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/gin1000_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/gin1000_wp_1600.jpg)
+
+丸ノ内線 02系![Image 47](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_02.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/mar02_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/mar02_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/mar02_wp_1600.jpg)
+
+日比谷線 13000系![Image 48](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_16.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/hib13000_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/hib13000_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/hib13000_wp_1600.jpg)
+
+日比谷線 03系![Image 49](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_03.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/hib03_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/hib03_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/hib03_wp_1600.jpg)
+
+東西線 15000系![Image 50](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_10.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/toz15000_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/toz15000_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/toz15000_wp_1600.jpg)
+
+千代田線 16000系![Image 51](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_13.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/chiy16000_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/chiy16000_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/chiy16000_wp_1600.jpg)
+
+有楽町線・副都心線 10000系![Image 52](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_06.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/yur-fuk10000_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/yur-fuk10000_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/yur-fuk10000_wp_1600.jpg)
+
+半蔵門線 08系![Image 53](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_07.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/han08_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/han08_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/han08_wp_1600.jpg)
+
+南北線 9000系new![Image 54](http://www.tokyometro.jp/enjoy/wallpaper/train/images/index_img_08.jpg)
+[1024×768](http://www.tokyometro.jp/enjoy/wallpaper/train/images/nam9000_wp_1024.jpg)
+
+[1280×1024](http://www.tokyometro.jp/enjoy/wallpaper/train/images/nam9000_wp_1280.jpg)
+
+[1600×1200](http://www.tokyometro.jp/enjoy/wallpaper/train/images/nam9000_wp_1600.jpg)
+
+*   [メトロで楽しむ](http://www.tokyometro.jp/enjoy/index.html)
+*   [イベント情報](http://www.tokyometro.jp/enjoy/event/index.html)
+*   [フリーペーパー](http://www.tokyometro.jp/enjoy/freepaper/index.html)
+*   [デジタルノベルティ](http://www.tokyometro.jp/enjoy/wallpaper/index.html)
+
+東京メトロ公式SNS
+
+*   [![Image 55: Twitter](http://www.tokyometro.jp/library/common/img/icon_footer_twitter.png)公式アカウント](https://twitter.com/tokyometro_info)
+*   [![Image 56: Youtube](http://www.tokyometro.jp/library/common/img/icon_footer_youtube.png)公式チャンネル](https://www.youtube.com/user/TokyoMetroOfficial)
+*   [![Image 57: Instagram](http://www.tokyometro.jp/library/common/img/icon_footer_instagram.png)公式アカウント](https://www.instagram.com/tokyometro_official)
+*   [![Image 58: Facebook](http://www.tokyometro.jp/library/common/img/icon_footer_facebook2.png)Find my Tokyo](https://www.facebook.com/Find-my-Tokyo-185384951968638/)
+*   [![Image 59: Instagram](http://www.tokyometro.jp/library/common/img/icon_footer_instagram.png)Find my Tokyo](https://www.instagram.com/challenge_find_my_tokyo/)
+*   [![Image 60: note](http://www.tokyometro.jp/library/common/img/icon_footer_note.png)TOKYO METRO NEWS（メトニュー）](https://www.tokyometro-news.jp/)
+
+*   [お問い合わせ （お忘れ物・ご意見等）](http://www.tokyometro.jp/support/index.html)
+*   [よくあるご質問（FAQ）](https://ssl.tokyometro.jp/support/faq_top?lang=ja)
+*   [東京メトロのご利用案内](http://www.tokyometro.jp/support/guide/index.html)
+*   [車内マナー向上の お願い・取組み](http://www.tokyometro.jp/safety/attention/index.html)
+
+*   [東京メトロ公式アプリのご紹介](http://www.tokyometro.jp/mobiledevice/smartphone/index.html)
+
+*   [サイトマップ](http://www.tokyometro.jp/sitemap/index.html)
+*   [リンク集](http://www.tokyometro.jp/related_link/index.html)
+*   [RSS一覧](http://www.tokyometro.jp/rssinfo/index.html)
+*   [個人情報保護方針](http://www.tokyometro.jp/privacy/index.html)
+*   [サイトのご利用にあたって](http://www.tokyometro.jp/terms/index.html)
+*   [ソーシャルメディアポリシー](http://www.tokyometro.jp/policy/index.html)
+
+Copyright © Tokyo Metro Co., Ltd All rights reserved.
+
+[ページの先頭へ戻る](http://www.tokyometro.jp/enjoy/wallpaper/train/index.html#pagetop)
+
+![Image 61](http://www.tokyometro.jp/library/common/img/train/img_y.png)
+
+![Image 62: Cookiebot session tracker icon loaded](https://imgsct.cookiebot.com/1.gif?dgi=cd33a185-4f82-4562-9525-cce0dc921d84)

@@ -1,0 +1,325 @@
+Title: 東京都交通局,ページが見つかりません
+
+URL Source: http://www.kotsu.metro.tokyo.jp/about/press/media/
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+ページが見つかりません ｜ 東京都交通局
+===============
+
+[ページの先頭です](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+ページ内を移動するためのリンク[本文(c)へ](http://www.kotsu.metro.tokyo.jp/about/press/media/#reader-content)[グローバルナビゲーション(g)へ](http://www.kotsu.metro.tokyo.jp/about/press/media/#reader-gnavi)[サイトのご利用案内(i)へ](http://www.kotsu.metro.tokyo.jp/about/press/media/#reader-site)
+
+[![Image 1: 東京都交通局](http://www.kotsu.metro.tokyo.jp/common/img/logo.png)](http://www.kotsu.metro.tokyo.jp/)
+
+![Image 2: メニュー](http://www.kotsu.metro.tokyo.jp/common/img/menuBtn.png)
+
+*   [音声読み上げ](http://app-as.readspeaker.com/cgi-bin/rsent?customerid=9178&lang=ja_jp&readid=main&url=)
+*   [文字サイズ・色合い変更](http://www.kotsu.metro.tokyo.jp/font_setting/)
+*   [Language](http://www.kotsu.metro.tokyo.jp/language/)
+*   [都庁総合トップページ](http://www.metro.tokyo.jp/)
+
+[サイトマップ](http://www.kotsu.metro.tokyo.jp/sitemap/)
+
+[×](javascript:void(0) "検索ボックスをクリア")
+
+*   [音声読み上げ](http://app-as.readspeaker.com/cgi-bin/rsent?customerid=9178&lang=ja_jp&readid=main&url=)
+*   [Language](http://www.kotsu.metro.tokyo.jp/language/)
+
+[ここからグローバルナビです。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+*   [トップ ページ](http://www.kotsu.metro.tokyo.jp/)
+*   [都営地下鉄](http://www.kotsu.metro.tokyo.jp/subway/)
+
+    *   [運行情報](http://www.kotsu.metro.tokyo.jp/subway/schedule/)
+    *   [時刻表](http://www.kotsu.metro.tokyo.jp/subway/timetable/)
+    *   [路線図](http://www.kotsu.metro.tokyo.jp/subway/line.pdf?width=1000)
+    *   [停車駅](http://www.kotsu.metro.tokyo.jp/subway/stops/)
+    *   [各駅情報](http://www.kotsu.metro.tokyo.jp/subway/stations/)
+    *   [運賃・経路・所要時間（検索）](https://transfer-internal.navitime.biz/toeikotsu/pc/top/Top?function=transfer)
+    *   [運賃・乗車券・定期券](http://www.kotsu.metro.tokyo.jp/subway/fare/)
+    *   [窓口一覧](http://www.kotsu.metro.tokyo.jp/subway/branch/)
+    *   [地下鉄関連情報](http://www.kotsu.metro.tokyo.jp/subway/kanren/)
+
+*   [都営バス](http://www.kotsu.metro.tokyo.jp/bus/)
+
+    *   [おすすめの路線図](http://www.kotsu.metro.tokyo.jp/bus/areamap/)
+    *   [バスのりば](http://www.kotsu.metro.tokyo.jp/bus/noriba/)
+    *   [運賃・乗車券・定期券](http://www.kotsu.metro.tokyo.jp/bus/fare/)
+    *   [営業所・窓口一覧](http://www.kotsu.metro.tokyo.jp/bus/branch/)
+    *   [バス関連情報](http://www.kotsu.metro.tokyo.jp/bus/kanren/)
+    *   [みんくるの小部屋](http://www.kotsu.metro.tokyo.jp/bus/minkuru/)
+    *   [都営交通経路検索](http://www.kotsu.metro.tokyo.jp/bus/kanren/tobus.html#tobus01)
+    *   [運行系統一覧（tobus.jp）](http://tobus.jp/blsys/navi?VCD=ctop&ECD=rsinfo&LCD=)
+    *   [時刻表](http://www.kotsu.metro.tokyo.jp/bus/kanren/tobus.html#tobus02)
+    *   [貸切バスのご案内（観光バス・路線バス）](http://www.kotsu.metro.tokyo.jp/bus/kanren/kashikiri.html)
+
+*   [都電](http://www.kotsu.metro.tokyo.jp/toden/)
+
+    *   [時刻表](http://www.kotsu.metro.tokyo.jp/toden/timetable/)
+    *   [路線図](http://www.kotsu.metro.tokyo.jp/toden/map/)
+    *   [停留場情報](http://www.kotsu.metro.tokyo.jp/toden/stations/)
+    *   [運賃・経路・所要時間（検索）](https://transfer-internal.navitime.biz/toeikotsu/pc/top/Top?function=transfer)
+    *   [運賃・乗車券・定期券](http://www.kotsu.metro.tokyo.jp/toden/fare/)
+    *   [営業所・窓口一覧](http://www.kotsu.metro.tokyo.jp/toden/branch/)
+    *   [荒川線 関連情報](http://www.kotsu.metro.tokyo.jp/toden/kanren/)
+    *   [今月の東京さくらトラム](http://www.kotsu.metro.tokyo.jp/toden/arakawa/)
+    *   [運行情報](http://www.kotsu.metro.tokyo.jp/toden/schedule/)
+    *   [とあらんのらんらんルーム](http://www.kotsu.metro.tokyo.jp/toden/toaran/)
+
+*   [日暮里・舎人ライナー](http://www.kotsu.metro.tokyo.jp/nippori_toneri/)
+
+    *   [時刻表](http://www.kotsu.metro.tokyo.jp/nippori_toneri/timetable/)
+    *   [路線図](http://www.kotsu.metro.tokyo.jp/nippori_toneri/map/)
+    *   [各駅情報](http://www.kotsu.metro.tokyo.jp/nippori_toneri/stations/)
+    *   [運賃・経路・所要時間（検索）](https://transfer-internal.navitime.biz/toeikotsu/pc/top/Top?function=transfer)
+    *   [運賃・乗車券・定期券](http://www.kotsu.metro.tokyo.jp/nippori_toneri/fare/)
+    *   [運行情報](http://www.kotsu.metro.tokyo.jp/nippori_toneri/schedule/)
+    *   [振替輸送のご案内](http://www.kotsu.metro.tokyo.jp/nippori_toneri/transfer/)
+    *   [窓口一覧](http://www.kotsu.metro.tokyo.jp/nippori_toneri/branch/)
+    *   [関連情報](http://www.kotsu.metro.tokyo.jp/nippori_toneri/kanren/)
+
+*   [その他の事業](http://www.kotsu.metro.tokyo.jp/other/)
+
+    *   [上野動物園モノレール](http://www.kotsu.metro.tokyo.jp/other/monorail/)
+    *   [電気事業](http://www.kotsu.metro.tokyo.jp/other/hatsuden/)
+    *   [関連事業](http://www.kotsu.metro.tokyo.jp/other/kanren/)
+
+*   [ピックアップ情報](http://www.kotsu.metro.tokyo.jp/pickup_information/)
+
+    *   [ニュース](http://www.kotsu.metro.tokyo.jp/pickup_information/news/)
+    *   [沿線ガイド「ぴっく・あっぷ」](http://www.kotsu.metro.tokyo.jp/pickup_information/pickup/)
+    *   [ちかとく](http://www.kotsu.metro.tokyo.jp/pickup_information/chikatoku/)
+    *   [広報誌等のご案内](http://www.kotsu.metro.tokyo.jp/pickup_information/magazine/)
+    *   [守ろう！マナー](http://www.kotsu.metro.tokyo.jp/pickup_information/manner.html)
+    *   [ヘブンアーティスト](http://www.kotsu.metro.tokyo.jp/pickup_information/heavenartist/)
+    *   [グッズ情報](http://www.kotsu.metro.tokyo.jp/pickup_information/cardgoods.html)
+    *   [車両ギャラリー](http://www.kotsu.metro.tokyo.jp/pickup_information/gallery/)
+    *   [動画ギャラリー](http://www.kotsu.metro.tokyo.jp/pickup_information/douga/)
+    *   [ポスターギャラリー](http://www.kotsu.metro.tokyo.jp/pickup_information/poster/)
+
+*   [交通局について](http://www.kotsu.metro.tokyo.jp/about/)
+
+    *   [交通局の概要](http://www.kotsu.metro.tokyo.jp/about/service/)
+    *   [交通局のあゆみ](http://www.kotsu.metro.tokyo.jp/about/ayumi/)
+    *   [経営情報](http://www.kotsu.metro.tokyo.jp/about/information/)
+    *   [安全・安心の取組](http://www.kotsu.metro.tokyo.jp/about/safety/)
+    *   [援助や配慮の必要なお客様へ](http://www.kotsu.metro.tokyo.jp/about/assistance/)
+    *   [交通局の環境への取組](http://www.kotsu.metro.tokyo.jp/about/kankyo/)
+    *   [採用情報](http://www.kotsu.metro.tokyo.jp/about/career/)
+    *   [契約情報](http://www.kotsu.metro.tokyo.jp/about/contract/)
+    *   [情報公開ポータル](http://www.kotsu.metro.tokyo.jp/about/koukai/)
+    *   [要綱・要領等](http://www.kotsu.metro.tokyo.jp/about/yoko_yoryo/)
+    *   [交際費・海外出張](http://www.kotsu.metro.tokyo.jp/about/expenses/)
+    *   [職員の服務](http://www.kotsu.metro.tokyo.jp/about/staff/)
+    *   [交通局窓口カルテ（事務処理フローなど）](http://www.kotsu.metro.tokyo.jp/about/counter/)
+
+[グローバルメニューここまでです。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+*   [都庁総合ホームページ](http://www.metro.tokyo.jp/)
+*   [サイトマップ](http://www.kotsu.metro.tokyo.jp/sitemap/)
+
+![Image 3: 閉じるボタンのアイコン](http://www.kotsu.metro.tokyo.jp/common/img/nav_close.png)閉じる
+
+ページが見つかりません
+===========
+
+1.   [東京都交通局ホーム](http://www.kotsu.metro.tokyo.jp/)
+2.   ページが見つかりません
+
+[ここから本文です。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+お探しのページはURLが変更されたか、削除された可能性がございます。
+
+ お⼿数ですが、トップページを表示するか、以下のリンクより目的のページ、またはファイルをお探しください。
+
+### サイト内検索から探す
+
+[×](javascript:void(0) "検索ボックスをクリア")
+
+*   [都営地下鉄](http://www.kotsu.metro.tokyo.jp/subway/)
+
+*   [都バス](http://www.kotsu.metro.tokyo.jp/bus/)
+
+*   [都電荒川線](http://www.kotsu.metro.tokyo.jp/toden/)
+
+*   [日暮里・舎人ライナー](http://www.kotsu.metro.tokyo.jp/nippori_toneri/)
+
+*   [サイトマップ](http://www.kotsu.metro.tokyo.jp/sitemap/)
+
+*   [よくあるご質問](http://www.kotsu.metro.tokyo.jp/enq/faq/)
+
+*   [お問合せ](http://www.kotsu.metro.tokyo.jp/enq/)
+
+*   [運行情報](http://www.kotsu.metro.tokyo.jp/subway/schedule/)
+
+*   [遅延証明書](http://www.kotsu.metro.tokyo.jp/subway/schedule/delay.html)
+
+*   [定期券](http://www.kotsu.metro.tokyo.jp/subway/fare/pass.html)
+
+*   [お忘れ物](http://www.kotsu.metro.tokyo.jp/enq/wasuremono/)
+
+### Foreign Language
+
+*   [English](http://www.kotsu.metro.tokyo.jp/eng/)
+
+*   [中文簡体](http://www.kotsu.metro.tokyo.jp/ch_k/)
+
+*   [中文繁体](http://www.kotsu.metro.tokyo.jp/ch_h/)
+
+*   [한글](http://www.kotsu.metro.tokyo.jp/kor/)
+
+*   [ภาษาไทย](http://www.kotsu.metro.tokyo.jp/thai/)
+
+[本文ここまでです。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+[ここからローカルナビです。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+東京都交通局
+------
+
+*   [サイトポリシー](http://www.kotsu.metro.tokyo.jp/riyo/)
+*   [アクセシビリティ方針](http://www.kotsu.metro.tokyo.jp/accessibility/)
+*   [個人情報保護方針](http://www.kotsu.metro.tokyo.jp/kojinjyoho/)
+*   [使い方ヘルプ](http://www.kotsu.metro.tokyo.jp/guide/)
+*   [音声読み上げについて](http://www.kotsu.metro.tokyo.jp/readspeaker/)
+*   [お問い合わせ](http://www.kotsu.metro.tokyo.jp/enq/)
+*   [リンク集](http://www.kotsu.metro.tokyo.jp/link/)
+*   [サイトマップ](http://www.kotsu.metro.tokyo.jp/sitemap/)
+*   [東京都交通局SNS](http://www.kotsu.metro.tokyo.jp/twitter/)
+
+[![Image 4: TOKOPO](http://www.kotsu.metro.tokyo.jp/img/tokopo.png) 会員募集中！都営交通に乗るたび、ポイントたまる！](http://www.kotsu.metro.tokyo.jp/tokopo/index.html)[![Image 5: PASMO](http://www.kotsu.metro.tokyo.jp/img/pasmo.png) 都営交通のご利用はPASMO、Suicaが便利です](http://www.kotsu.metro.tokyo.jp/other/kanren/pasmo_index.html)
+
+[ローカルナビここまでです。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+[ここからサイトのご利用案内です。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+[ページの先頭へ戻る](http://www.kotsu.metro.tokyo.jp/about/press/media/#base)
+
+[![Image 6: GO TOKYO](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_06.jpg)](http://www.gotokyo.org/jp/index.html)
+
+[![Image 7: 東京都インフラポータルサイト](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_11.png)](http://www.infura.metro.tokyo.jp/index.html)
+
+[![Image 8: Pasmo](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_23.png)](https://www.pasmo.co.jp/)
+
+[![Image 9: How to Hello Tokyo CAPSULE](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_38.png)](https://www.gotokyo.org/jp/plan/tips-for-tokyo-sightseeing/index.html)
+
+[![Image 10: 東京都](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_01.png)](http://www.metro.tokyo.jp/)
+
+[![Image 11: JR東日本 子ども見守りサービス「まもレール」は4月1日より都営交通と東京メトロを加えた首都圏495駅に拡大します](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_25.jpg)](https://www.mamorail.jp/)
+
+[![Image 12: Tokyo水素ナビ](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_35.png)](https://www.tokyo-h2-navi.metro.tokyo.lg.jp/)
+
+[![Image 13: 都営交通における節電への取組について](http://www.kotsu.metro.tokyo.jp/img/f_slider/brownout_banner.png)](http://www.kotsu.metro.tokyo.jp/pickup_information/news/others/2025/otr_i_2025043012021_h.html)
+
+[![Image 14: 東京アメッシュ](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_13.jpg)](https://tokyo-ame.jwa.or.jp/)
+
+[![Image 15: GO TOKYO](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_06.jpg)](http://www.gotokyo.org/jp/index.html)
+
+[![Image 16: 東京都インフラポータルサイト](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_11.png)](http://www.infura.metro.tokyo.jp/index.html)
+
+[![Image 17: Pasmo](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_23.png)](https://www.pasmo.co.jp/)
+
+[![Image 18: How to Hello Tokyo CAPSULE](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_38.png)](https://www.gotokyo.org/jp/plan/tips-for-tokyo-sightseeing/index.html)
+
+[![Image 19: 東京都](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_01.png)](http://www.metro.tokyo.jp/)
+
+[![Image 20: JR東日本 子ども見守りサービス「まもレール」は4月1日より都営交通と東京メトロを加えた首都圏495駅に拡大します](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_25.jpg)](https://www.mamorail.jp/)
+
+[![Image 21: Tokyo水素ナビ](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_35.png)](https://www.tokyo-h2-navi.metro.tokyo.lg.jp/)
+
+[![Image 22: 都営交通における節電への取組について](http://www.kotsu.metro.tokyo.jp/img/f_slider/brownout_banner.png)](http://www.kotsu.metro.tokyo.jp/pickup_information/news/others/2025/otr_i_2025043012021_h.html)
+
+[![Image 23: 東京アメッシュ](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_13.jpg)](https://tokyo-ame.jwa.or.jp/)
+
+[![Image 24: GO TOKYO](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_06.jpg)](http://www.gotokyo.org/jp/index.html)
+
+[![Image 25: 東京都インフラポータルサイト](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_11.png)](http://www.infura.metro.tokyo.jp/index.html)
+
+[![Image 26: Pasmo](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_23.png)](https://www.pasmo.co.jp/)
+
+[![Image 27: How to Hello Tokyo CAPSULE](http://www.kotsu.metro.tokyo.jp/img/f_slider/f_slider_img_38.png)](https://www.gotokyo.org/jp/plan/tips-for-tokyo-sightseeing/index.html)
+
+*   1
+*   2
+*   3
+*   停止
+
+*   [都営地下鉄](http://www.kotsu.metro.tokyo.jp/subway/)
+*   [都営バス](http://www.kotsu.metro.tokyo.jp/bus/)
+*   [都電](http://www.kotsu.metro.tokyo.jp/toden/)
+*   [日暮里・舎人ライナー](http://www.kotsu.metro.tokyo.jp/nippori_toneri/)
+*   [その他の事業](http://www.kotsu.metro.tokyo.jp/other/)
+*   [公式SNS](http://www.kotsu.metro.tokyo.jp/twitter/)
+*   [経営情報](http://www.kotsu.metro.tokyo.jp/about/information/)
+*   [職員採用情報](http://www.kotsu.metro.tokyo.jp/about/career/)
+*   [契約情報](http://www.kotsu.metro.tokyo.jp/about/contract/)
+*   [情報公開ポータル](http://www.kotsu.metro.tokyo.jp/about/koukai/)
+*   [お問い合わせ](http://www.kotsu.metro.tokyo.jp/enq/)
+*   [ホームページ評価アンケート](https://logoform.jp/form/tmgform/783103?r%5B8%3Atext%5D=%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93+%EF%BD%9C+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80)
+
+*   [![Image 28: X（旧Twitter）](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/x_icon_pc.png)![Image 29](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/x_icon_sp.png)](https://twitter.com/toeikotsu)
+*   [![Image 30: Youtube](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/yt_icon_pc.png)![Image 31](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/yt_icon_sp.png)](https://www.youtube.com/channel/UC2V_e2PqDF-pfLKeLTZHz3g)
+*   [![Image 32: Facebook](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/fb_icon_pc.png)![Image 33](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/fb_icon_sp.png)](https://www.facebook.com/toeikotsu)
+*   [![Image 34: Instagram](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/insta_icon_pc.png)![Image 35](http://www.kotsu.metro.tokyo.jp/common/img/f-banner/insta_icon_sp.png)](https://www.instagram.com/toeitransportation_official/)
+
+*   [サイトポリシー](http://www.kotsu.metro.tokyo.jp/riyo/)
+*   [アクセシビリティ方針](http://www.kotsu.metro.tokyo.jp/accessibility/)
+*   [個人情報保護方針](http://www.kotsu.metro.tokyo.jp/kojinjyoho/)
+*   [使い方ヘルプ](http://www.kotsu.metro.tokyo.jp/guide/)
+
+*   [お問い合わせ先](http://www.kotsu.metro.tokyo.jp/enq/)
+*   [リンク集](http://www.kotsu.metro.tokyo.jp/link/)
+*   [東京都交通局公式SNS](http://www.kotsu.metro.tokyo.jp/twitter/)
+*   [音声読み上げについて](http://www.kotsu.metro.tokyo.jp/readspeaker/)
+*   [サイトマップ](http://www.kotsu.metro.tokyo.jp/sitemap/)
+
+本サイト上の文書や画像等に関する諸権利は東京都に帰属します。文書・画像等の無断使用・転載を禁止します。
+
+Copyright © 2016 Bureau of Transportation. Tokyo Metropolitan Government. All Rights Reserved.
+
+[サイトのご利用案内ここまでです。](http://www.kotsu.metro.tokyo.jp/about/press/media/)
+
+![Image 36: Company Logo](https://cdn.cookielaw.org/logos/d0784823-707a-427f-9642-6f985b33c3db/1d7426d3-cfc6-4027-9864-061b8d129bcf/c0696226-8762-4565-b461-67eabeb0ec8e/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2023-10-25_15.10.35.png)
+
+Privacy Preference Center
+-------------------------
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+
+Allow All
+### Manage Consent Preferences
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+#### Performance Cookies
+
+- [x] Performance Cookies 
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+### Cookie List
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Reject All Confirm My Choices
+
+[![Image 37: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

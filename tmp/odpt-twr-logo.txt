@@ -1,0 +1,62 @@
+Title: 東京臨海高速鉄道 画像情報(鉄道関連) / Image data (railway-related) of TWR Rinkai Line - 企業ロゴ / Company logo - 公共交通オープンデータセンター データカタログサイト
+
+URL Source: http://ckan.odpt.org/dataset/r_image-twr/resource/6f6e9d6a-7bde-4c75-ae7f-3e307b46e4b7
+
+Markdown Content:
+東京臨海高速鉄道 画像情報(鉄道関連) / Image data (railway-related) of TWR Rinkai Line - 企業ロゴ / Company logo - 公共交通オープンデータセンター データカタログサイト
+===============
+
+[スキップして内容へ](http://ckan.odpt.org/dataset/r_image-twr/resource/6f6e9d6a-7bde-4c75-ae7f-3e307b46e4b7#content)
+
+Toggle navigation
+
+[![Image 1: 公共交通オープンデータセンター](http://ckan.odpt.org/images/dc-logo.png)](https://www.odpt.org/)
+
+*   [データセット](http://ckan.odpt.org/dataset/)
+*   [組織](http://ckan.odpt.org/organization/)
+*   [グループ](http://ckan.odpt.org/group/)
+*   [About](http://ckan.odpt.org/about)
+
+データセットを検索 
+
+1.   [ホーム](http://ckan.odpt.org/)
+2.   [組織](http://ckan.odpt.org/organization/)
+3.   [東京臨海高速鉄道 / TWR Rinkai Line](http://ckan.odpt.org/organization/twr)
+4.   [東京臨海高速鉄道 画像情報(鉄道関連) /...](http://ckan.odpt.org/dataset/r_image-twr)
+5.   [企業ロゴ / Company logo](http://ckan.odpt.org/dataset/r_image-twr/resource/6f6e9d6a-7bde-4c75-ae7f-3e307b46e4b7)
+
+企業ロゴ / Company logo
+===================
+
+URL: [https://api.odpt.org/api/v4/files/TWR/Image/img_logoMark.png?acl:consumerKey=[発行されたアクセストークン/YOUR_ACCESS_TOKEN]](https://api.odpt.org/api/v4/files/TWR/Image/img_logoMark.png?acl:consumerKey=[%E7%99%BA%E8%A1%8C%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3/YOUR_ACCESS_TOKEN] "https://api.odpt.org/api/v4/files/TWR/Image/img_logoMark.png?acl:consumerKey=[発行されたアクセストークン/YOUR_ACCESS_TOKEN]")
+
+東京臨海高速鉄道の企業ロゴを提供します。 / Company logo of TWR Rinkai Line
+
+※本データは、[開発者サイト](https://developer.odpt.org/)でユーザ登録していただくことによりご利用できます。
+
+リソース
+----
+
+*   [駅ナンバリング / Station number icons](http://ckan.odpt.org/dataset/r_image-twr/resource/ff13f0aa-576b-42f4-b6a0-f4742e852197?inner_span=True)
+*   [施設図面情報(駅構内図) / Facility maps](http://ckan.odpt.org/dataset/r_image-twr/resource/a7793e90-2981-4a70-9f76-b5ef971165c5?inner_span=True)
+*   [企業ロゴ / Company logo](http://ckan.odpt.org/dataset/r_image-twr/resource/6f6e9d6a-7bde-4c75-ae7f-3e307b46e4b7?inner_span=True)
+
+追加情報
+----
+
+| フィールド | 値 |
+| --- | --- |
+| データ形式 | PNG |
+| ライセンス | [公共交通オープンデータ基本ライセンス / Public Transportation Open Data Basic License](https://developer.odpt.org/terms) |
+
+*   [公共交通オープンデータ協議会](https://www.odpt.org/)
+
+**Powered by** CKAN
+
+言語 
+
+[日本語](javascript:void(0))言語 
+
+言語 
+
+Go

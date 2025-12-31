@@ -1,0 +1,102 @@
+Title: データセット - 公共交通オープンデータセンター データカタログサイト
+
+URL Source: http://ckan.odpt.org/dataset?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%20%E7%94%BB%E5%83%8F%20%E9%89%84%E9%81%93
+
+Markdown Content:
+並び順
+
+"東京都交通局 画像 鉄道" に対して 15 件のデータセットが見つかりました
+---------------------------------------
+
+[フィルタ結果](http://ckan.odpt.org/dataset?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%A4%E9%80%9A%E5%B1%80%20%E7%94%BB%E5%83%8F%20%E9%89%84%E9%81%93)
+*   [東京都交通局 画像情報(鉄道関連) / Image data (railway-related) of Bureau of Transportation,...](https://ckan.odpt.org/dataset/r_image-toei)
+------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY 4.0の下でライセンスされています。クレジット表示については、こちらのFAQをご参照ください。... 
+    *   [PDF](https://ckan.odpt.org/dataset/r_image-toei)
+
+*   [東京都交通局 鉄道関連リアルタイム情報 / Train realtime information of Bureau of Transportation,...](https://ckan.odpt.org/dataset/r_train_gtfs_rt-odpt_train-toei)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーについて、GTFS-RT形式による鉄道関連リアルタイム情報を提供します。 / Train realtime information of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC... 
+    *   [Protocol Buffers](https://ckan.odpt.org/dataset/r_train_gtfs_rt-odpt_train-toei)
+
+*   [東京都交通局 鉄道関連情報 / Train information of Bureau of Transportation, Tokyo Metropol...](https://ckan.odpt.org/dataset/train-toei)
+----------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーについて、GTFS形式による鉄道関連情報を提供します。 / Train information of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY... 
+    *   [GTFS/GTFS-JP](https://ckan.odpt.org/dataset/train-toei)
+
+*   [東京都交通局 運賃情報 / Fare information of Bureau of Transportation, Tokyo Metropolita...](https://ckan.odpt.org/dataset/r_fare-toei)
+-----------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの運賃情報を提供します。 / Fare information of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_fare-toei)
+
+*   [東京都交通局 列車時刻表 / Train timetable of Bureau of Transportation, Tokyo Metropolita...](https://ckan.odpt.org/dataset/r_train_timetable-toei)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの列車時刻表を提供します。 / Train timetable of Bureau of Transportation, Tokyo Metropolitan Government ※大江戸線の列車番号は、末尾の1や2を省いて表記します。(例: 1001A1 → 1001A)... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_train_timetable-toei)
+
+*   [東京都交通局 列車ロケーション情報 / Train location information of Bureau of Transportation, T...](https://ckan.odpt.org/dataset/r_train_location-toei)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）の列車ロケーション情報を提供します。 / Train location information of Bureau of Transportation, Tokyo Metropolitan Government ※三田線の目黒-白金高輪間は除きます。... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_train_location-toei)
+
+*   [東京都交通局 路線系統情報 / Route information of Bureau of Transportation, Tokyo Metropol...](https://ckan.odpt.org/dataset/r_route-toei)
+------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの路線系統情報を提供します。 / Route information of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_route-toei)
+
+*   [東京都交通局 駅情報 / Station information of Bureau of Transportation, Tokyo Metropoli...](https://ckan.odpt.org/dataset/r_station-toei)
+--------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの駅情報を提供します。 / Station information of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_station-toei)
+
+*   [東京都交通局 駅時刻表 / Station timetable of Bureau of Transportation, Tokyo Metropolit...](https://ckan.odpt.org/dataset/r_station_timetable-toei)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの駅時刻表を提供します。 / Station timetable of Bureau of Transportation, Tokyo Metropolitan Government ※大江戸線の列車番号は、末尾の1や2を省いて表記します。(例: 1001A1 →... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_station_timetable-toei)
+
+*   [東京都交通局 乗降者数情報 / Passenger survey of Bureau of Transportation, Tokyo Metropoli...](https://ckan.odpt.org/dataset/r_passenger_survey-toei)
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、日暮里・舎人ライナーの乗降者数情報を提供します。 / Passenger survey of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_passenger_survey-toei)
+
+*   [東京都交通局 運行情報 / Train status information of Bureau of Transportation, Tokyo Met...](https://ckan.odpt.org/dataset/r_train_status-toei)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+東京都交通局の都営地下鉄、東京さくらトラム（都電荒川線）、日暮里・舎人ライナーの運行情報を提供します。 / Train status information of Bureau of Transportation, Tokyo Metropolitan Government ※本コンテンツ等はCC BY... 
+    *   [JSON](https://ckan.odpt.org/dataset/r_train_status-toei)
+
+*   [東京メトロ 画像情報(鉄道関連) / Image data (railway-related) of Tokyo Metro](https://ckan.odpt.org/dataset/r_image-tokyometro)
+------------------------------------------------------------------------------------------------------------------
+
+東京メトロの画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Tokyo Metro 公共交通オープンデータ基本ライセンスの特定利用条件をよく読んで、ご利用ください。 / Read "Specific Terms of Use" in "Public Transportation Open Data... 
+    *   [ZIP](https://ckan.odpt.org/dataset/r_image-tokyometro)
+
+*   [首都圏新都市鉄道（つくばエクスプレス） 画像情報(鉄道関連) / Image data (railway-related) of Metropolitan...](https://ckan.odpt.org/dataset/r_image-mir)
+-----------------------------------------------------------------------------------------------------------------------------
+
+首都圏新都市鉄道（つくばエクスプレス）の画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Metropolitan Intercity Railway 
+    *   [ZIP](https://ckan.odpt.org/dataset/r_image-mir)
+
+*   [東京臨海高速鉄道 画像情報(鉄道関連) / Image data (railway-related) of TWR Rinkai Line](https://ckan.odpt.org/dataset/r_image-twr)
+------------------------------------------------------------------------------------------------------------------
+
+東京臨海高速鉄道の画像情報(鉄道関連)を提供します。 / Image data (railway-related) of TWR Rinkai Line 公共交通オープンデータ基本ライセンスの特定利用条件をよく読んで、ご利用ください。 / Read "Specific Terms of Use" in "Public Transportation... 
+    *   [ZIP](https://ckan.odpt.org/dataset/r_image-twr)
+    *   [PNG](https://ckan.odpt.org/dataset/r_image-twr)
+
+*   [ゆりかもめ 画像情報(鉄道関連) / Image data (railway-related) of Yurikamome](https://ckan.odpt.org/dataset/r_image-yurikamome)
+-----------------------------------------------------------------------------------------------------------------
+
+ゆりかもめの画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Yurikamome 公共交通オープンデータ基本ライセンスの特定利用条件をよく読んで、ご利用ください。 / Read "Specific Terms of Use" in "Public Transportation Open Data... 
+    *   [ZIP](https://ckan.odpt.org/dataset/r_image-yurikamome)
+    *   [PNG](https://ckan.odpt.org/dataset/r_image-yurikamome)

@@ -1,0 +1,343 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700;900&display=swap");
+
+:root {
+  color-scheme: light;
+  --bg: #f7f2eb;
+  --bg-accent: #fde1c4;
+  --ink: #2a251f;
+  --ink-muted: #5c5347;
+  --primary: #f27a3b;
+  --primary-deep: #dd5e22;
+  --secondary: #1f8aa5;
+  --card: #fffaf4;
+  --line: #e9dccf;
+  --success: #2ea86d;
+  --danger: #e0585b;
+  --shadow: 0 18px 45px rgba(44, 33, 24, 0.18);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Yu Gothic UI", sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.page-bg {
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(circle at 10% 20%, #fff2dd 0%, transparent 55%),
+    radial-gradient(circle at 90% 10%, #fff1c0 0%, transparent 40%),
+    radial-gradient(circle at 90% 90%, #ffd9c7 0%, transparent 40%),
+    linear-gradient(135deg, #fff7ef 0%, #f6efe6 100%);
+  opacity: 0.9;
+  z-index: -2;
+}
+
+.page-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.6) 0%, transparent 70%),
+    repeating-linear-gradient(45deg, rgba(242, 122, 59, 0.08) 0, rgba(242, 122, 59, 0.08) 2px, transparent 2px, transparent 10px);
+  mix-blend-mode: multiply;
+  opacity: 0.6;
+}
+
+.app {
+  position: relative;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 18px 48px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: fade-up 0.6s ease-out;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.badge {
+  background: var(--ink);
+  color: white;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.card {
+  background: var(--card);
+  border-radius: 20px;
+  padding: 18px;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.hero {
+  display: grid;
+  gap: 16px;
+  text-align: left;
+}
+
+.hero h1 {
+  font-size: clamp(1.8rem, 4.5vw, 2.6rem);
+  margin: 0;
+}
+
+.hero p {
+  margin: 0;
+  color: var(--ink-muted);
+  line-height: 1.6;
+}
+
+.hero .cta {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.button {
+  appearance: none;
+  border: none;
+  border-radius: 16px;
+  padding: 14px 18px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.button.primary {
+  background: linear-gradient(120deg, var(--primary) 0%, #ffb663 100%);
+  color: #2b1b0c;
+  box-shadow: 0 12px 28px rgba(242, 122, 59, 0.35);
+}
+
+.button.secondary {
+  background: #ffffff;
+  color: var(--ink);
+  border: 2px solid var(--line);
+}
+
+.button:active {
+  transform: scale(0.98);
+}
+
+.progress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 10px;
+  background: #f2e7dc;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-bar span {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, var(--secondary), #6bd3c9);
+  border-radius: inherit;
+  transition: width 0.3s ease;
+}
+
+.image-frame {
+  background: #fff;
+  border-radius: 18px;
+  border: 2px dashed var(--line);
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+
+.image-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-placeholder {
+  text-align: center;
+  color: var(--ink-muted);
+  padding: 18px;
+}
+
+.choices {
+  display: grid;
+  gap: 12px;
+}
+
+.choice {
+  width: 100%;
+  text-align: left;
+  background: #fff;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  padding: 14px 16px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  box-shadow: 0 10px 20px rgba(24, 18, 12, 0.08);
+  transition: transform 0.15s ease, border 0.2s ease, box-shadow 0.2s ease;
+  animation: float-in 0.4s ease both;
+}
+
+.choice:nth-child(1) { animation-delay: 0.05s; }
+.choice:nth-child(2) { animation-delay: 0.1s; }
+.choice:nth-child(3) { animation-delay: 0.15s; }
+.choice:nth-child(4) { animation-delay: 0.2s; }
+
+@keyframes float-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.choice.is-correct {
+  border-color: var(--success);
+  background: #e6f6ed;
+}
+
+.choice.is-wrong {
+  border-color: var(--danger);
+  background: #ffecec;
+}
+
+.choice:disabled {
+  cursor: default;
+  box-shadow: none;
+}
+
+.feedback {
+  margin-top: 12px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  font-weight: 700;
+}
+
+.feedback.good {
+  background: #e6f6ed;
+  color: #1b6d43;
+}
+
+.feedback.bad {
+  background: #ffecec;
+  color: #9b2e2e;
+}
+
+.result-score {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.result-score strong {
+  font-size: 2.5rem;
+}
+
+.result-list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.result-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+}
+
+.result-item span {
+  font-weight: 700;
+}
+
+.credit-list {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.credit-item {
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+}
+
+.credit-item a {
+  color: var(--secondary);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.helper {
+  font-size: 0.95rem;
+  color: var(--ink-muted);
+}
+
+.footer-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (min-width: 640px) {
+  .app {
+    padding: 32px 26px 60px;
+  }
+
+  .hero .cta {
+    flex-direction: row;
+  }
+
+  .footer-actions {
+    flex-direction: row;
+  }
+}

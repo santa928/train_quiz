@@ -1,0 +1,25 @@
+Title: ゆりかもめ 画像情報(鉄道関連) / Image data (railway-related) of Yurikamome - 公共交通オープンデータセンター データカタログサイト
+
+URL Source: http://ckan.odpt.org/dataset/r_image-yurikamome
+
+Markdown Content:
+ゆりかもめ 画像情報(鉄道関連) / Image data (railway-related) of Yurikamome
+-------------------------------------------------------------
+
+ゆりかもめの画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Yurikamome
+
+公共交通オープンデータ基本ライセンスの特定利用条件をよく読んで、ご利用ください。 / Read "Specific Terms of Use" in "Public Transportation Open Data Basic License" before use.
+
+### データとリソース
+
+*   [駅ナンバリング / Station number icons ZIP](https://ckan.odpt.org/dataset/r_image-yurikamome/resource/c53ff0d9-e284-4c47-9912-ceaefa587f5d "駅ナンバリング / Station number icons")
+ゆりかもめの駅ナンバリングを提供します。 / Station number icons of Yurikamome...
+
+*   [施設図面情報(駅構内図) / Facility maps ZIP](https://ckan.odpt.org/dataset/r_image-yurikamome/resource/67e03a50-09b6-41de-9d99-b8bd484905f0 "施設図面情報(駅構内図) / Facility maps")
+ゆりかもめの施設図面情報(駅構内図)を提供します。 / Facility maps of Yurikamome...
+
+*   [企業ロゴ / Company logo PNG](https://ckan.odpt.org/dataset/r_image-yurikamome/resource/4e6878ba-5a15-4046-9385-de533e740e20 "企業ロゴ / Company logo")
+ゆりかもめの企業ロゴを提供します。 / Company logo of Yurikamome...
+
+*   [画像情報_鉄道関連-image_dat...](https://ckan.odpt.org/dataset/?tags=%E7%94%BB%E5%83%8F%E6%83%85%E5%A0%B1_%E9%89%84%E9%81%93%E9%96%A2%E9%80%A3-image_data__railway-related)
+*   [鉄道-railway](https://ckan.odpt.org/dataset/?tags=%E9%89%84%E9%81%93-railway)

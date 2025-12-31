@@ -1,0 +1,64 @@
+Title: 東京都交通局 画像情報(鉄道関連) / Image data (railway-related) of Bureau of Transportation, Tokyo Metropolitan Government - 駅ナンバリング / Station number icons - 公共交通オープンデータセンター データカタログサイト
+
+URL Source: http://ckan.odpt.org/dataset/r_image-toei/resource/84d444dd-298d-43ae-ab57-f791f6a3a60e
+
+Markdown Content:
+東京都交通局 画像情報(鉄道関連) / Image data (railway-related) of Bureau of Transportation, Tokyo Metropolitan Government - 駅ナンバリング / Station number icons - 公共交通オープンデータセンター データカタログサイト
+===============
+
+[スキップして内容へ](http://ckan.odpt.org/dataset/r_image-toei/resource/84d444dd-298d-43ae-ab57-f791f6a3a60e#content)
+
+Toggle navigation
+
+[![Image 1: 公共交通オープンデータセンター](http://ckan.odpt.org/images/dc-logo.png)](https://www.odpt.org/)
+
+*   [データセット](http://ckan.odpt.org/dataset/)
+*   [組織](http://ckan.odpt.org/organization/)
+*   [グループ](http://ckan.odpt.org/group/)
+*   [About](http://ckan.odpt.org/about)
+
+データセットを検索 
+
+1.   [ホーム](http://ckan.odpt.org/)
+2.   [組織](http://ckan.odpt.org/organization/)
+3.   [東京都交通局 / Bureau of...](http://ckan.odpt.org/organization/toei)
+4.   [東京都交通局 画像情報(鉄道関連) / Image...](http://ckan.odpt.org/dataset/r_image-toei)
+5.   [駅ナンバリング / Station number icons](http://ckan.odpt.org/dataset/r_image-toei/resource/84d444dd-298d-43ae-ab57-f791f6a3a60e)
+
+駅ナンバリング / Station number icons
+==============================
+
+URL: [https://api-public.odpt.org/api/v4/files/Toei/Image/odpt_Image-Toei_都営地下鉄_路線シンボルデータ.pdf](https://api-public.odpt.org/api/v4/files/Toei/Image/odpt_Image-Toei_%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84_%E8%B7%AF%E7%B7%9A%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF.pdf "https://api-public.odpt.org/api/v4/files/Toei/Image/odpt_Image-Toei_都営地下鉄_路線シンボルデータ.pdf")
+
+東京都交通局の都営地下鉄の駅ナンバリングを提供します。 / Station number icons of Bureau of Transportation, Tokyo Metropolitan Government
+
+※当データは、[開発者サイト](https://developer.odpt.org/)でのユーザ登録後、以下のURLからもアクセス可能です。
+
+https://api.odpt.org/api/v4/files/Toei/Image/odpt_Image-Toei_都営地下鉄_路線シンボルデータ.pdf?acl:consumerKey=[発行されたアクセストークン/YOUR_ACCESS_TOKEN]
+
+リソース
+----
+
+*   [駅ナンバリング / Station number icons](http://ckan.odpt.org/dataset/r_image-toei/resource/84d444dd-298d-43ae-ab57-f791f6a3a60e?inner_span=True)
+*   [駅ナンバリング / Station number icons](http://ckan.odpt.org/dataset/r_image-toei/resource/c0603aab-996e-4907-a6cc-ba45db1c7377?inner_span=True)
+*   [駅ナンバリング / Station number icons](http://ckan.odpt.org/dataset/r_image-toei/resource/eec28bdf-2d2e-4855-bcda-a985071fb8a6?inner_span=True)
+
+追加情報
+----
+
+| フィールド | 値 |
+| --- | --- |
+| データ形式 | PDF |
+| ライセンス | [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
+
+*   [公共交通オープンデータ協議会](https://www.odpt.org/)
+
+**Powered by** CKAN
+
+言語 
+
+[日本語](javascript:void(0))言語 
+
+言語 
+
+Go

@@ -1,0 +1,17 @@
+Title: 首都圏新都市鉄道（つくばエクスプレス） 画像情報(鉄道関連) / Image data (railway-related) of Metropolitan Intercity Railway - 公共交通オープンデータセンター データカタログサイト
+
+URL Source: http://ckan.odpt.org/dataset/r_image-mir
+
+Markdown Content:
+首都圏新都市鉄道（つくばエクスプレス） 画像情報(鉄道関連) / Image data (railway-related) of Metropolitan Intercity Railway
+-----------------------------------------------------------------------------------------------
+
+首都圏新都市鉄道（つくばエクスプレス）の画像情報(鉄道関連)を提供します。 / Image data (railway-related) of Metropolitan Intercity Railway
+
+### データとリソース
+
+*   [施設図面情報(駅構内図) / Facility maps ZIP](https://ckan.odpt.org/dataset/r_image-mir/resource/8b181c87-db10-4aff-ae99-0711acd6bed7 "施設図面情報(駅構内図) / Facility maps")
+首都圏新都市鉄道（つくばエクスプレス）の施設図面情報(駅構内図)を提供します。 / Facility maps of Metropolitan...
+
+*   [画像情報_鉄道関連-image_dat...](https://ckan.odpt.org/dataset/?tags=%E7%94%BB%E5%83%8F%E6%83%85%E5%A0%B1_%E9%89%84%E9%81%93%E9%96%A2%E9%80%A3-image_data__railway-related)
+*   [鉄道-railway](https://ckan.odpt.org/dataset/?tags=%E9%89%84%E9%81%93-railway)

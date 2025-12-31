@@ -1,0 +1,293 @@
+Title: 開発者サイト
+
+URL Source: http://developer.odpt.org/terms/data_basic_license.html
+
+Published Time: Mon, 01 Dec 2025 02:12:16 GMT
+
+Markdown Content:
+Public Transportation Open Data Basic License
+---------------------------------------------
+
+Public Transportation Open Data Basic License (hereinafter referred to as the "License") applies to the data to which this License is explicitly applied among data provided by Public Transportation Open Data Center (hereinafter referred to as the "Center").
+
+Article 1 (Definitions)
+
+For the purposes of this License, the following terms will have the meanings as defined in the respective items:
+
+1. "Public Transportation Data" refers to data provided by the Center.
+
+2. "Public Transportation Data Provider" means a party which provided the Center with the Public Transportation Data.
+
+3. "Data User" means a person who receives the Public Transportation Data from the Center.
+
+4. "Basic License Data" refers to Public Transportation Data to which this License applies.
+
+5. "Specific Terms of Use" means the terms of use established independently by a Public Transportation Data Provider in the provision of their Public Transportation Data.
+
+6. "Basic License Data with Specific Terms of Use" means Public Transportation Data to which the License with Specific Terms of Use is applied.
+
+7 "Basic License Data and Others" collectively means the Basic License Data and the Basic License Data with Specific Terms of Use.
+
+8. "Deliverable" collectively means applications (including but not limited to web applications, mobile applications, and IoT gadgets), data and documents created by Data User using or referring to the Public Transportation Data.
+
+9. “Industrial Property Rights” collectively means patent rights, utility model rights, design rights, trademark rights, and the rights thereto and know-how, etc.
+
+10. "Intellectual Property Rights" collectively means Industrial Property Rights and copyrights.
+
+11. "General User" means a person who uses or reads a Deliverable.
+
+12. "Guideline" means the "Public Transportation Open Data Developer Guideline" separately specified by the Center.
+
+Article 2 (Consent to this License)
+
+1. A Data User who has obtained Basic License Data and Others from the Center shall be deemed to have agreed to the License.
+
+Article 3 (Permission to use Data)
+
+1. The Center will, subject to compliance with this License, the Guideline, and additionally the Specific Terms of Use of Basic License Data with Specific Terms of Use if applicable, grant a non-exclusive right to use Basic License Data and Others to a Data User.
+
+2. No Intellectual Property Rights other than those granted under this Article will be assigned or licensed to Data Users by this License either explicitly or implicitly.
+
+Article 4 (Use of Basic License Data)
+
+1. Data User may, by agreeing to the terms in the following items, create Deliverables using the Basic License Data non-exclusively, and let General Users use them after releasing the Deliverables to the public.
+
+2. Data Users shall use the Basic License Data in accordance with the following items:
+
+(1) not to use the Basic License Data in a manner that may cause disadvantage or a bad reputation to the Center, Association for Open Data of Public Transportation (hereinafter referred to as the Association), or the Public Transportation Data Providers;
+
+(2) not to disassemble or modify the Basic License Data in a manner that may damage the original meaning;
+
+(3) not to display all or part of the Basic License Data anywhere other than in the Deliverable;
+
+(4) if all or part of the Basic License Data is updated, to update the Deliverable(s) immediately in accordance with the Guideline;
+
+(5) not to violate the Intellectual Property Rights of the Center, the Association, or the Public Transportation Data Providers when using the Basic License Data; and
+
+(6) not to make any representation to the effect that the Center, the Association, or any Public Transportation Data Provider will give any guarantee or assume any responsibility concerning the Deliverable.
+
+3. Data Users shall make sure that the contents of the Basic License Data displayed in their Deliverables will reflect those of the Basic License Data provided by the Center accurately in accordance with the Guidelines.
+
+4. Data Users may combine the Basic License Data with other data on condition that they will not infringe any Intellectual Property Rights of a third party.
+
+5. The Center may modify the Basic License Data at any time;
+
+6. Data Users may use the trademark of the Association when they use the Basic License Data.
+
+7 Data Users may use these Basic License Data for-profit or nonprofit by following the Basic License and the Guideline.
+
+8. This Article shall also apply when “Basic License Data” is actually Basic License Data with Specific Terms of Use.
+
+Article 5 (Use of Basic License Data with Specific Terms of Use)
+
+1. When the Basic License Data with Specific Terms of Use is used, the Specific Terms of Use of the relevant data shall be applied additionally on top of the provisions of this License; provided, however, that if there is any difference between the Specific Terms of Use and this License, the Specific Terms of Use shall prevail.
+
+Article 6 (Copyrights)
+
+1. The Center hereby warrants to Data Users that non-exclusive rights of use and the permissions concerning the establishment of reuse of the Basic License Data and Others have been obtained from Public Transportation Data Providers.
+
+Article 7 (Intellectual Property Rights)
+
+1. The ownership of the technical results of the inventions, devices, designs, know-how, and works newly obtained by Data Users developing the Deliverables (hereinafter collectively referred to as "Inventions") and the Intellectual Property Rights pertaining thereto shall be as set forth below:
+
+(1) The ownership of the Inventions made independently by the Center or a Data User and the Intellectual Property Rights pertaining thereto shall be held independently by the party who made such Inventions.
+
+(2) The ownership of the Inventions made jointly by the Center and a Data User or Data Users and the Intellectual Property Rights pertaining thereto will be shared by the Center and the Data User(s).
+
+2. The details of practice of the Inventions shared by the Center and the Data User(s) pursuant to the preceding paragraph and the Intellectual Property Rights pertaining thereto will be determined through separate consultation.
+
+Article 8 (Prohibitions)
+
+1. Data Users must not use the Basic License Data and Others in violation of this License and the Guideline.
+
+2. Data Users must not use the Basic License Data with Specific Terms of Use in violation of the Specific Terms of Use.
+
+3. Data Users must not
+
+1) violate, in the use of Basic License Data and Others, the laws and regulations of Japan or the country or region where the Data Users are living;
+
+(2) illegally use or cause a third party to illegally use the Basic License Data and Others in violation of this License, the Guideline, or the Specific Terms of Use if applicable.
+
+4. Except as there is a prior written approval of the Center and as separately set forth in the Specific Terms of Use of the Basic License Data with Specific Terms of Use, Data Users hereby consent that the following acts are prohibited:
+
+(1) to release, redistribute, publicly transmit, or assign Basic License Data and Others, duplicates of these data, and derivatives of these data (derivative data is created by processing, editing, integrating Basic License Data and Others in a manner so that the whole or most of the original data can be restored) whether with or without consideration in a form reusable by a third party.
+
+Article 9 (No Warranty, Indemnification)
+
+1. The Center, the Association, and the Public Transportation Data Providers will try to maintain the accuracy of the information of Basic License Data and Others.
+
+2. Data Users hereby agree to the following items:
+
+(1) that the Basic License Data and Others will be provided to Data Users on an "AS IS" basis;
+
+(2) that the Center, the Association, and the Public Transportation Data Providers will not be liable in any manner for any direct, accidental, consequential, or indirect damage caused to Data Users and General Users due to the use of, or a failure to use, the Basic License Data and Others; this will apply in cases where the Center, the Association, or the Public Transportation Data Providers were informed of the possibility of such damage; and
+
+(3) that the Center, the Association, and the Public Transportation Data Providers will not make any warranty regarding the Basic License Data and Others in any manner including, but not limited to, that they meet the quantity, quality and types specified in a contract, their usage will not be interrupted, as well as their merchantability, fitness for a particular purpose, and non-infringement of third-party rights.
+
+3. The Center will make its best efforts so that these Basic License Data and Others will satisfy the following items:
+
+(1) that the Basic License Data and Others will not contain any slander against a third party, anything contrary to public order or illegal contents; and
+
+(2) that the Basic License Data and Others will not contain any computer virus.
+
+4. The Center, the Association, and the Public Transportation Data Provider will not be liable for the following items in any manner:
+
+(1) any illegal act of Data Users using the Basic License Data and Others;
+
+(2) any damage or disadvantage to Data Users resulting from the use of the Basic License Data and Others; and
+
+(3) any damage or disadvantage to General Users resulting from the use of a Deliverable.
+
+5. This license will not oblige the Center, the Association or the Public Transportation Data Providers to provide service of any type (including but not limited to failure corrections, support by telephone, fax, or e-mail, and technical services) or upgrades.
+
+10. Responsibility of Data Users
+
+1. Data Users shall use the Basic License Data and Others on his/her own responsibility.
+
+2. Data Users will be liable for the costs incurred by the Center, the Association, or any Public Transportation Data Provider due to Data Users' illegal act or breach of Data Users’ obligations as set forth in this License including but not limited to the costs paid by the Center, the Association, and/or any Public Transportation Data Provider to restore the damage inflicted by such illegal act, and the compensation for the damages, attorney's fees, etc. paid by the Center, the Association, and/or any Public Transportation Data Provider to third parties due to such illegal act.
+
+3. Data Users shall announce to the General Users that the Center, the Association, and the Public Transportation Data Provider will not be responsible for the accuracy or integrity of the Basic License Data and Others. Data Users whose Deliverables are applications shall state, in accordance with the Guideline, their contact information to be used in inquiries regarding the content or operation of such Deliverables. Data Users shall thereby make efforts so that inquiries regarding the contents or operation of the Deliverables produced by them will not be sent directly to the Public Transportation Data Provider.
+
+Article 11 (Compensation)
+
+1. If any Deliverable infringes any rights of a third party, the relevant Data User shall take all responsibilities for the response to the third party claiming such infringement, and the Center, the Association, or the Public Transportation Data Providers shall not be responsible or liable therefore in any manner.
+
+2. If any Deliverable causes disadvantage or a bad reputation to the Center, the Association, or the Public Transportation Data Providers, the relevant Data User shall take all responsibilities and liabilities for such disadvantage or a bad reputation.
+
+Article 12 (Deletion, etc.)
+
+1. If all or part of a Deliverable developed by a Data User using the Basic License Data and Others is judged, by the Center, to be, or almost to be, in violation of this License, the Specific Terms of Use, the Guideline, or the privacy policy, the Center may suspend, discontinue, terminate, or delete, the use of the Basic License Data and Others by such Data User without notifying such Data User. The Center may also terminate the permission granted in accordance with Paragraph 1, Article 3 (hereinafter referred to as the "Permission").
+
+2. If a Data User is in any of the following conditions, the Center may suspend, discontinue, terminate, or delete, the use of the Basic License Data and Others by such Data User without notifying such Data User. The Center may also terminate the Permission:
+
+(1) in violation of this License, Specific Terms of Use if applicable or the Guideline;
+
+(2) when a petition for seizure, provisional seizure, provisional disposition, or auction has been filed, or the Data User is subject to tax delinquency disposition or any other disposition by public authority, or a petition for bankruptcy, corporate reorganization, or civil rehabilitation proceedings or any similar proceedings has been filed;
+
+(3) when a bill or check drawn or accepted by the Data User was dishonored or the Data User has otherwise suspended payments;
+
+(4) when the Data User has resolved to dissolve or discontinue business, or assign all or any important part of the business;
+
+(5) when the financial condition has otherwise been, or there are reasonable grounds to believe that it is likely to be, deteriorating;
+
+(6) when the Center judges that the trust relationship between the Center and the Data User cannot be restored.
+
+Article 13 (Term, Termination, and Change)
+
+1. This License will be applied to a Data User when the agreement is confirmed to the Center by the Data User (Article 2).
+
+2. The Center may change, suspend, or discontinue the provision of the Basic License Data and Others to a Data User and terminate the application of this Permission to such Data User at any time regardless of the reason.
+
+3. A Data User, upon termination of this Permission, shall cease to use the Basic License Data and Others and delete the Basic License Data and Others in their possession.
+
+4. The Center may change all or part of the terms of use of this License, the Guidelines, and the Special Terms of Use of Basic License Data and Others if applicable without obtaining the prior consents of Data Users at any time; provided, however, that any material change will be effected after giving a prior notice to Data Users and a reasonable period has passed.
+
+5. In the preceding paragraph, if this License, Guideline, or the Specific Terms of Use of the Basic Licensed Data with Specific Terms of Use are changed and a Data User uses the Basic License Data and Others after the Center gives a notice of such a change to Data Users, such a Data User will be deemed to have agreed to this License, the Guideline, and the Specific Terms of Use of such data user after the change.
+
+Article 14 (Handling of Personal Information)
+
+1. Data Users will disclose and register their Account Information to the Center before using the Basic License Data and Others.
+
+2. The Center may use and reproduce the Account Information disclosed by Data Users for the communications regarding the use of the Basic License Data and Others, and the maintenance of and improvement in the Basic License Data and Others.
+
+3. The Center may provide the Public Transportation Data Providers with the information on Deliverables that use Basic License Data and Others.
+
+4. The handling of the personal information pertaining to the use of the Basic License Data and Others not set forth herein will be governed by the privacy policy established separately by the Center.
+
+Article 15 (Elimination of Antisocial Forces and Prohibition of Violent Acts, etc.)
+
+1. Data Users hereby represent and warrant that they themselves, or, in case of a corporation or group (hereinafter referred to as "Corporations"), any person belonging to a group operated by such Corporations including part-timers, are not at present, or will not be in the future, an organized crime group, or a member or quasi-member of an organized crime group, a person who was a member of an organized crime group within the past five (5) years, a company associated with an organized crime group, a corporate racketeer, etc. a person engaging in criminal activities under the pretext of a social activist, etc., or a violent group specialized in intellectual crimes, or any person equivalent thereto (hereinafter collectively referred to as "Organized Crime Group Member, etc.") or have any of the following relationships:
+
+(1) relationship where it is recognized that an Organized Crime Group Member, etc. is controlling their management;
+
+(2) relationship where an Organized Crime Group Member, etc. is substantially involved in their management;
+
+(3) relationship where it is recognized that they are unreasonably using an Organized Crime Group Member, etc. to seek their own, the Corporations', or a third party's illicit gains, or cause damage to a third party;
+
+(4) relationship where it is recognized that they are involved with an Organized Crime Group Member, etc. by such means as offering funds, etc. or providing favors; and
+
+(5) relationship which their officers or any other person substantially involved in their management has with an Organized Crime Group Member, etc. is socially criticized.
+
+2. Data Users hereby warrant that they will not perform any of the following acts for themselves or by using a third party:
+
+(1) act of violent demands against a member, officer, observer, or the Secretariat of the Center or the Association, the Public Transportation Data Providers, etc.;
+
+(2) act of unreasonable demands beyond legal responsibilities against a member, officer, observer, or the Secretariat of the Center or the Association, the Public Transportation Data Providers, etc.;
+
+(3) act of using threatening speech and/or behavior, or violence during business transactions;
+
+(4) act of discrediting or obstructing the business of the Center, the Association, or the Public Transportation Data Providers by spreading rumors or using fraudulent means or force; and
+
+(5) any other act similar to the above.
+
+3. If a Data User is found to be in violation of any of the provisions hereof, the Center may suspend, without any notice or demand, the use of the Basic License Data and Others by such Data User or any person involved therewith. The Data User shall not make any objection to such action of suspension.
+
+Article 16 (Severability)
+
+1. Should any part of the provisions of this License be judged invalid, illegal, or unenforceable by a court as set forth in Article 18, the effectiveness, legality, and enforceability of the remaining provisions of this License will not be affected in any respect.
+
+Article 17 (Survival Provision)
+
+1. The provisions of paragraph 2 of Article 3, Article 5, Article 7 to Article 9, paragraph 2 to paragraph 3 of Article 10, Article 11, Article 12, and Article 14 to Article 18 will survive the termination of the Data Users' use of the Basic License Data and Others pursuant to this License or the termination of the Permission.
+
+Article 18 (Miscellaneous Provisions)
+
+1. The establishment, effectiveness and execution of this License shall be entirely governed by and interpreted under the laws of Japan.
+
+2. This License is executed in Japanese text. Translation into other languages is allowed provided that the Japanese text shall govern the interpretation and performance of this License.
+
+3. Any dispute regarding the contents and performance of this License, the Guideline, and the Specific Terms of Use of the Basic License Data with Specific Terms of Use will be subject to the agreed exclusive jurisdiction of the Tokyo District Court or the Tokyo Summary Court in the first instance.
+
+Revision created on June 1, 2021, Effective the same date.
+
+Revision created on August 30, 2019, Effective the same date.
+
+Established on May 31, 2019, Effective the same date.
+
+================================
+
+Specific Terms of Use
+
+Article 1 (Usage Rule of Image Data provided by TOKYU BUS CORPORATION)
+
+1. Image data of company logo provided by TOKYU BUS CORPORATION shall be used without modification except for the modifications allowed in the following.
+
+(1) Enlarging/shrinking by keeping intact the ratio of horizontal and vertical scale.
+
+Article 2 (Usage Rule of Image Data provided by ANA HOLDINGS INC.)
+
+1. Image data of company logo provided by ANA HOLDINGS INC. shall be used without modification except for the modifications allowed in the following.
+
+(1) Enlarging/shrinking by keeping intact the ratio of horizontal and vertical scale.
+
+Article 3 (Usage Rule of Image Data provided by Tokyo Waterfront Area Rapid Transit .Inc)
+
+1. Image data of intra-station map, company logo and numbered stations provided by Tokyo Waterfront Area Rapid Transit .Inc shall be used without modification except for the modifications allowed in the following.
+
+(1) Enlarging/shrinking by keeping intact the ratio of horizontal and vertical scale.
+
+Article 4 (Usage Rule of Image Data provided by Yurikamome Inc.)
+
+1. Image data of intra-station map, and company logo provided by Yurikamome Inc. shall be used without modification except for the modifications allowed in the following.
+
+(1) Enlarging/shrinking by keeping intact the ratio of horizontal and vertical scale.
+
+2. Images of numbered stations provided by Yurikamome Inc. shall be used without modification except for the modifications allowed in the following.
+
+(1) Cutting out that leaves only a single route symbol.
+
+(2) Enlarging/shrinking by keeping intact the ratio of horizontal and vertical scale.
+
+Article 5 (Usage Rule of Image Data provided by Tokyo Metro Co., Ltd.)
+
+1. Image data of station number icons and line symbols provided by Tokyo Metro Co., Ltd. shall be used by reading all the descriptions of "東京メトロ画像データ利用条件" attached to the image data, and following all the relevant descriptions in it.
+
+Revision created on February 24, 2022, Effective the same date.
+
+Revision created on June 1, 2021, Effective the same date.
+
+Revision created on March 27, 2020, Effective the same date.
+
+Revision created on August 30, 2019, Effective the same date.
+
+Established on May 31, 2019, Effective the same date.
