@@ -75,7 +75,8 @@ function loadQuestion() {
     questionNumberEl.textContent = `だい ${currentQuestionIndex + 1} もん`;
     questionImageEl.src = currentTrain.image;
     feedbackOverlay.className = 'hidden'; // Ensure hidden
-    feedbackOverlay.textContent = ''; // Clear icon
+    feedbackOverlay.className = 'hidden'; // Ensure hidden
+    feedbackOverlay.innerHTML = ''; // Clear icon and text
 
     // Prepare Choices
     // 1 Correct + 3 Incorrect
@@ -112,25 +113,35 @@ function handleAnswer(targetBtn) {
         score++;
         showFeedback(true);
     } else {
-        showFeedback(false);
+        const correctChoice = quizQueue[currentQuestionIndex];
+        showFeedback(false, correctChoice.label);
     }
 
     // Wait and proceed
     setTimeout(() => {
         nextQuestion();
-    }, 1500);
+    }, 3000);
 }
 
-function showFeedback(isCorrect) {
+function showFeedback(isCorrect, correctAnswerLabel) {
     feedbackOverlay.classList.remove('hidden');
     feedbackOverlay.classList.add('active-feedback');
+    feedbackOverlay.innerHTML = ''; // Clear previous content
 
     if (isCorrect) {
         feedbackOverlay.classList.add('feedback-correct');
         feedbackOverlay.classList.remove('feedback-incorrect');
+        feedbackOverlay.innerHTML = '<div class="feedback-icon">⭕</div>';
     } else {
         feedbackOverlay.classList.add('feedback-incorrect');
         feedbackOverlay.classList.remove('feedback-correct');
+
+        feedbackOverlay.innerHTML = `
+            <div class="feedback-icon">❌</div>
+            <div class="correct-answer-display">
+                <span>せいかいは...</span><br>${correctAnswerLabel}
+            </div>
+        `;
     }
 }
 
