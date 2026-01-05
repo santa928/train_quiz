@@ -1,4 +1,4 @@
-const TOTAL_QUESTIONS = 5;
+const TOTAL_QUESTIONS = 10;
 let trainsData = [];
 let quizQueue = [];
 let currentQuestionIndex = 0;
@@ -40,7 +40,7 @@ async function init() {
 
     // Choice button handlers
     choiceBtns.forEach(btn => {
-        btn.addEventListener('click', (e) => handleAnswer(e.target));
+        btn.addEventListener('click', (e) => handleAnswer(e.currentTarget));
     });
 
     // Credits handlers
@@ -61,8 +61,7 @@ function startQuiz() {
     score = 0;
     currentQuestionIndex = 0;
 
-    // Create a shuffled queue containing all available trains (or pick 5 random if we had more)
-    // Since we have exactly 5 for MVP, just shuffle them.
+    // Create a shuffled queue containing all available trains, then pick the first TOTAL_QUESTIONS
     quizQueue = shuffleArray([...trainsData]).slice(0, TOTAL_QUESTIONS);
 
     showScreen('quiz-screen');
