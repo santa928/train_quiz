@@ -59,7 +59,17 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+    top: 0;
+    left: 0;
     transition: opacity 0.4s ease;
+    padding-top: 50px;
+    /* Add space for top elements */
+}
+
+/* Quiz Screen Specific Background */
+#quiz-screen {
+    background: url('../assets/images/game_bg.png') no-repeat center bottom;
+    background-size: cover;
 }
 
 #start-screen {
@@ -202,30 +212,110 @@ h2 {
 }
 
 /* Existing Quiz Styles ... */
+/* Character & Speech Bubble Area */
 .quiz-header {
     width: 100%;
-    text-align: center;
-    background-color: var(--color-accent);
-    padding: 15px;
-    border-radius: 0 0 25px 25px;
-    color: white;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+    position: relative;
+    z-index: 5;
+    height: 60px;
+    /* Force height for header */
 }
 
-.question-image-container {
-    width: 90%;
-    height: 40%;
-    min-height: 220px;
+.character-area {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #fff;
-    border-radius: var(--border-radius-lg);
-    margin: 80px 0 20px;
-    overflow: hidden;
+    /* Center since character is gone */
     position: relative;
-    border: 6px solid white;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.character-icon {
+    display: none;
+    /* Hide character */
+}
+
+.speech-bubble {
+    background: white;
+    border-radius: 30px;
+    padding: 15px 40px;
+    /* Larger padding */
+    margin-left: 0;
+    /* No margin needed */
+    position: relative;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    color: #444;
+    font-size: 1.5rem;
+    /* Larger text */
+    line-height: 1.2;
+    text-align: center;
+}
+
+/* Remove bubble tail since it's centered now or point down? Let's remove side tail */
+.speech-bubble::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -10px;
+    /* Tail at bottom */
+    top: auto;
+    transform: translateX(-50%);
+    border-style: solid;
+    border-width: 10px 10px 0 10px;
+    /* Triangle pointing down */
+    border-color: white transparent transparent transparent;
+}
+
+.question-image-container {
+    width: 100%;
+    /* Use full width */
+    max-width: 400px;
+    /* Cap width */
+    height: 280px;
+    /* Make taller */
+    background-color: transparent;
+    border-radius: 20px;
+    margin: 10px auto 20px;
+    overflow: visible;
+    position: relative;
+    border: none;
+    box-shadow: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#question-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    /* Keep aspect ratio of train */
+    filter: drop-shadow(0 8px 0 rgba(0, 0, 0, 0.1));
+    /* Add pop */
+}
+
+.question-badge {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #FF9800;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 1rem;
+    box-shadow: 0 3px 0 #E65100;
+    white-space: nowrap;
+    z-index: 10;
 }
 
 /* ... rest of existing styles ... */
@@ -303,60 +393,69 @@ h2 {
     z-index: 25;
 }
 
-.correct-answer-display span {
-    font-size: 1.2rem;
-    color: #666;
-}
-
 .choices-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 15px;
+    gap: 20px;
     width: 90%;
-    flex: 1;
-    max-height: 35%;
+    max-width: 400px;
     margin-bottom: 20px;
+    flex: 1;
+    /* Take remaining space */
+    justify-items: center;
+    /* Center buttons in grid cells */
 }
 
 .choice-btn {
-    font-size: 1.3rem;
+    width: 100%;
+    /* Stretch to grid cell */
+    height: 100px;
+    /* Increased height for multi-line text */
     border-radius: 20px;
-    padding: 10px;
+    /* Rounded Rect */
+    padding: 5px 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-weight: bold;
-    border-width: 4px;
-    border-style: solid;
+    font-weight: 800;
+    font-size: 1.3rem;
+    border: 6px solid white;
+    /* Thick white border */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
     background: white;
-    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
-    transition: 0.1s;
+    transition: transform 0.1s;
+    color: #444;
+    line-height: 1.2;
 }
 
 .choice-btn:active {
     transform: translateY(4px);
-    box-shadow: none;
 }
 
+/* Specific Colors for Circle Borders/Backgrounds */
 .btn-red {
-    border-color: var(--color-danger);
-    color: var(--color-text);
+    background-color: #FFEBEE;
+    border-color: #FF5252;
+    color: #D32F2F;
 }
 
 .btn-blue {
-    border-color: var(--color-accent);
-    color: var(--color-text);
+    background-color: #E3F2FD;
+    border-color: #448AFF;
+    color: #1976D2;
 }
 
 .btn-yellow {
-    border-color: var(--color-primary);
-    color: var(--color-text);
+    background-color: #FFFDE7;
+    border-color: #FFD600;
+    color: #F57F17;
 }
 
 .btn-green {
-    border-color: var(--color-secondary);
-    color: var(--color-text);
+    background-color: #E8F5E9;
+    border-color: #66BB6A;
+    color: #388E3C;
 }
 
 #result-screen {
