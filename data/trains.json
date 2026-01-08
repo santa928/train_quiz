@@ -121,14 +121,14 @@
     {
         "id": "jr-18",
         "name": "常磐線快速",
-        "label": "じょうばんせん",
+        "label": "じょうばんせん（かいそく）",
         "image": "assets/images/jr-18.jpg",
         "credit": "Wikimedia Commons"
     },
     {
         "id": "jr-19",
         "name": "常磐線各駅停車",
-        "label": "じょうばんせん",
+        "label": "じょうばんせん（かくえき）",
         "image": "assets/images/jr-19.jpg",
         "credit": "Wikimedia Commons"
     },
