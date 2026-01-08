@@ -156,6 +156,8 @@ function nextQuestion() {
     }
 }
 
+
+/*
 function showResult() {
     scoreCountEl.textContent = score;
 
@@ -166,6 +168,15 @@ function showResult() {
     } else {
         resultMessageEl.textContent = "がんばったね！";
     }
+
+    showScreen('result-screen');
+}
+*/
+
+function showResult() {
+    scoreCountEl.textContent = score;
+    // Update total count just in case it changes
+    document.getElementById('total-count').textContent = TOTAL_QUESTIONS;
 
     showScreen('result-screen');
 }

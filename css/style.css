@@ -67,17 +67,31 @@ body {
 }
 
 /* Quiz Screen Specific Background */
+#start-screen {
+    background: url('../assets/images/title_bg_clean.png') no-repeat center center;
+    background-size: cover;
+    padding: 0;
+    /* Remove padding */
+}
+
 #quiz-screen {
     background: url('../assets/images/game_bg.png') no-repeat center bottom;
     background-size: cover;
 }
 
-#start-screen {
-    background: url('../assets/images/main_bg.png') no-repeat center center;
+#result-screen {
+    background: url('../assets/images/result_bg_clean.png') no-repeat center bottom;
     background-size: cover;
-    justify-content: space-between;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    /* Ensure whole image is visible */
+    background-color: #87CEEB;
+    /* Match sky color */
+    padding: 0;
+}
+
+#start-screen {
+    /* Background handled above */
+    justify-content: center;
+    /* Center content */
 }
 
 .hidden {
@@ -92,23 +106,35 @@ body {
 }
 
 /* Typography */
-h1.title {
-    font-size: 3.5rem;
-    color: white;
+/* Text Sticker Effect */
+.text-sticker {
+    font-size: 3rem;
+    color: #FFA726;
+    /* Orange interior */
     text-shadow:
-        3px 3px 0 var(--color-accent),
-        6px 6px 0 var(--color-primary),
-        9px 9px 0 rgba(0, 0, 0, 0.1);
+        3px 3px 0 white,
+        -1px -1px 0 white,
+        1px -1px 0 white,
+        -1px 1px 0 white,
+        1px 1px 0 white,
+        5px 5px 0 rgba(0, 0, 0, 0.1);
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.title-pos {
+    position: absolute;
+    top: 5%;
+    width: 100%;
     text-align: center;
-    line-height: 1.1;
-    margin: 0;
-    z-index: 2;
-    transform: rotate(-3deg);
-    animation: floatingTitle 3s ease-in-out infinite;
+    font-size: 3.5rem;
+    /* Make it nice and big */
+    z-index: 10;
 }
 
 @keyframes floatingTitle {
 
+    /* Keep existing but maybe reduce range if needed */
     0%,
     100% {
         transform: rotate(-3deg) translateY(0);
@@ -160,54 +186,49 @@ h2 {
     /* Add space from bottom to float above ground */
 }
 
-.btn-green {
-    background-color: var(--color-stripe);
-    background: linear-gradient(to bottom, #81C784, #43A047);
+.btn-red-glossy {
+    background: linear-gradient(to bottom, #FF5252, #D32F2F);
+    border: 4px solid white;
+    border-radius: 50px;
+    color: white;
+    font-size: 2rem;
+    padding: 15px 40px;
+    box-shadow: 0 6px 0 #B71C1C, 0 10px 10px rgba(0, 0, 0, 0.2);
+    font-weight: 900;
 }
 
-.btn-orange {
-    background: linear-gradient(to bottom, #FFA726, #F57C00);
+.btn-red-glossy:active {
+    transform: translateY(4px);
+    box-shadow: 0 2px 0 #B71C1C, 0 4px 4px rgba(0, 0, 0, 0.2);
 }
 
-.btn-icon {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.8);
-    color: #444;
-    font-size: 1.5rem;
-    border: 2px solid white;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
+/* Title Image Area */
 /* Title Image Area */
 .title-image-container {
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px 0;
-    padding: 20px;
+    margin: 10px 0 40px;
+    /* Space for button */
+    flex: 1;
 }
 
-.title-train-img {
-    width: 100%;
-    max-width: 380px;
+.title-sl-img {
+    width: 90%;
+    max-width: 350px;
     height: auto;
     filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.2));
-    animation: gentle-bounce 3s infinite ease-in-out;
+    animation: gentle-train-move 3s ease-in-out infinite alternate;
 }
 
-@keyframes gentle-bounce {
-
-    0%,
-    100% {
-        transform: translateY(0);
+@keyframes gentle-train-move {
+    from {
+        transform: rotate(-2deg);
     }
 
-    50% {
-        transform: translateY(-10px);
+    to {
+        transform: rotate(2deg);
     }
 }
 
@@ -458,33 +479,104 @@ h2 {
     color: #388E3C;
 }
 
-#result-screen {
-    background: #FFF9C4;
+
+
+/* Result Screen Cloud */
+/* Transparent Overlay Buttons */
+.btn-transparent-overlay {
+    position: absolute;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    z-index: 100;
+    color: transparent;
+    /* Hide text */
 }
 
-/* Pale Yellow for Result */
-.score-display {
-    font-size: 3rem;
+.title-start-area {
+    bottom: 1%;
+    /* Move lower */
+    width: 60%;
+    height: 12%;
+    left: 20%;
+}
+
+.result-next-area {
+    bottom: 22%;
+    /* Adjust based on image button location */
+    width: 60%;
+    height: 10%;
+    left: 20%;
+}
+
+/* Result Score Overlay */
+/* Result Score Overlay */
+.result-score-overlay {
+    position: absolute;
+    top: 50%;
+    /* Center in cloud */
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 4rem;
+    font-weight: 900;
+    color: #333;
+
+    /* Transparent background since we use clean image */
+    background: transparent;
+    padding: 0;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    /* Stack label and score */
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+}
+
+.result-label {
+    font-size: 1.8rem;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+/* Button Text Overlay */
+.btn-text-overlay {
+    position: absolute;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    z-index: 100;
+    font-family: var(--font-main);
+    color: white;
+    font-size: 2rem;
+    font-weight: 900;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.result-score-label {
+    font-size: 1.5rem;
     font-weight: bold;
-    color: #F57C00;
-    margin: 30px 0;
+    color: #444;
+    margin-bottom: 5px;
 }
 
-#score-count {
-    font-size: 7rem;
-    color: #E65100;
-    text-shadow: 2px 2px 0 white;
-}
-
-.result-title {
-    color: #E65100;
-    font-size: 2.5rem;
+.score-display {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #333;
+    line-height: 1;
 }
 
 #result-message {
-    font-size: 1.5rem;
-    margin-bottom: 30px;
-    color: #555;
+    display: none;
+    /* Hide old message */
 }
 
 .footer-links {

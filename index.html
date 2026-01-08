@@ -16,10 +16,12 @@
     <div id="app">
         <!-- Start Screen -->
         <div id="start-screen" class="screen active">
-            <h1 class="title">とうきょうの<br>電車クイズ</h1>
+            <!-- Title removed from bg image, added as text -->
+            <h1 class="title text-sticker title-pos">でんしゃクイズ！</h1>
 
-            <button id="start-btn" class="btn btn-large btn-green">
-                スタート ▶
+            <!-- Button is in the background image -->
+            <button id="start-btn" class="btn-transparent-overlay title-start-area">
+                ゲームスタート
             </button>
             <div class="footer-links">
                 <button class="btn-icon" id="credits-btn">?</button>
@@ -52,13 +54,16 @@
 
         <!-- Result Screen -->
         <div id="result-screen" class="screen hidden">
-            <h2 class="result-title">けっか はっぴょう！</h2>
-            <div class="score-display">
-                <span id="score-count">0</span> 問 せいかい！
+            <!-- Cloud and labels are in the background image -->
+            <div class="result-score-overlay">
+                <div class="result-label">けっかはっぴょう</div>
+                <div class="score-display">
+                    <span id="score-count">0</span> / <span id="total-count">10</span>
+                </div>
             </div>
-            <div id="result-message">すごいね！</div>
-            <button id="retry-btn" class="btn btn-large btn-orange">
-                もういっかい！
+
+            <button id="retry-btn" class="btn-text-overlay result-next-area">
+                もういっかい
             </button>
         </div>
 
