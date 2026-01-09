@@ -1,8 +1,10 @@
 const TOTAL_QUESTIONS = 10;
 let trainsData = [];
+let availableTrains = [];
 let quizQueue = [];
 let currentQuestionIndex = 0;
 let score = 0;
+let totalQuestions = TOTAL_QUESTIONS;
 
 // DOM Elements
 const app = document.getElementById('app');
@@ -57,12 +59,23 @@ function setupCredits() {
     });
 }
 
+function isPrimaryTrain(train) {
+    if (!train.overlapGroup) return true;
+    return train.isPrimary === true;
+}
+
+function updateAvailableTrains() {
+    availableTrains = trainsData.filter(isPrimaryTrain);
+}
+
 function startQuiz() {
     score = 0;
     currentQuestionIndex = 0;
+    updateAvailableTrains();
 
     // Create a shuffled queue containing all available trains, then pick the first TOTAL_QUESTIONS
-    quizQueue = shuffleArray([...trainsData]).slice(0, TOTAL_QUESTIONS);
+    quizQueue = shuffleArray([...availableTrains]).slice(0, TOTAL_QUESTIONS);
+    totalQuestions = quizQueue.length;
 
     showScreen('quiz-screen');
     loadQuestion();
@@ -83,7 +96,7 @@ function loadQuestion() {
     const correctChoice = currentTrain;
 
     // Get all other trains as distractors
-    const distractors = trainsData.filter(t => t.id !== currentTrain.id);
+    const distractors = availableTrains.filter(t => t.id !== currentTrain.id);
     const selectedDistractors = shuffleArray(distractors).slice(0, 3);
 
     // Combine and shuffle
@@ -149,7 +162,7 @@ function nextQuestion() {
     currentQuestionIndex++;
     feedbackOverlay.classList.remove('active-feedback');
 
-    if (currentQuestionIndex < TOTAL_QUESTIONS) {
+    if (currentQuestionIndex < totalQuestions) {
         loadQuestion();
     } else {
         showResult();
@@ -176,7 +189,7 @@ function showResult() {
 function showResult() {
     scoreCountEl.textContent = score;
     // Update total count just in case it changes
-    document.getElementById('total-count').textContent = TOTAL_QUESTIONS;
+    document.getElementById('total-count').textContent = totalQuestions;
 
     showScreen('result-screen');
 }
