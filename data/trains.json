@@ -34,9 +34,9 @@
         "image": "assets/images/jr-05.jpg",
         "credit": "Wikimedia Commons",
         "overlapGroup": "jr-sobu-yokosuka",
-        "isPrimary": true,
-        "overlapIds": ["jr-06"],
-        "overlapNote": "横須賀線と同系車両のため統合"
+        "isPrimary": false,
+        "primaryId": "jr-06",
+        "overlapNote": "横須賀線と同系車両のため除外"
     },
     {
         "id": "jr-06",
@@ -45,9 +45,9 @@
         "image": "assets/images/jr-06.jpg",
         "credit": "Wikimedia Commons",
         "overlapGroup": "jr-sobu-yokosuka",
-        "isPrimary": false,
-        "primaryId": "jr-05",
-        "overlapNote": "総武快速線と同系車両のため除外"
+        "isPrimary": true,
+        "overlapIds": ["jr-05"],
+        "overlapNote": "総武快速線と同系車両のため統合"
     },
     {
         "id": "jr-07",
@@ -55,10 +55,10 @@
         "label": "とうかいどうせん",
         "image": "assets/images/jr-07.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "jr-tokaido-uenotokyo",
-        "isPrimary": true,
-        "overlapIds": ["jr-08"],
-        "overlapNote": "上野東京ラインと同系車両のため統合"
+        "overlapGroup": "jr-shonan-utsunomiya-takasaki",
+        "isPrimary": false,
+        "primaryId": "jr-09",
+        "overlapNote": "湘南新宿ラインと同系車両のため除外"
     },
     {
         "id": "jr-08",
@@ -66,10 +66,10 @@
         "label": "うえのとうきょうらいん",
         "image": "assets/images/jr-08.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "jr-tokaido-uenotokyo",
+        "overlapGroup": "jr-shonan-utsunomiya-takasaki",
         "isPrimary": false,
-        "primaryId": "jr-07",
-        "overlapNote": "東海道線と同系車両のため除外"
+        "primaryId": "jr-09",
+        "overlapNote": "湘南新宿ラインと同系車両のため除外"
     },
     {
         "id": "jr-09",
@@ -79,8 +79,8 @@
         "credit": "Wikimedia Commons",
         "overlapGroup": "jr-shonan-utsunomiya-takasaki",
         "isPrimary": true,
-        "overlapIds": ["jr-20", "jr-21"],
-        "overlapNote": "宇都宮線・高崎線と同系車両のため統合"
+        "overlapIds": ["jr-07", "jr-08", "jr-20", "jr-21"],
+        "overlapNote": "東海道線・上野東京ライン・宇都宮線・高崎線と同系車両のため統合"
     },
     {
         "id": "jr-10",
@@ -354,31 +354,23 @@
     },
     {
         "id": "private-08",
-        "name": "小田急小田原線",
-        "label": "おだきゅうせん",
+        "name": "小田急線（特急）",
+        "label": "おだきゅうせん（とっきゅう）",
         "image": "assets/images/private-08.jpg",
-        "credit": "Wikimedia Commons",
-        "overlapGroup": "odakyu-main",
-        "isPrimary": true,
-        "overlapIds": ["private-09"],
-        "overlapNote": "小田急多摩線と同系車両のため統合"
+        "credit": "Wikimedia Commons"
     },
     {
         "id": "private-09",
-        "name": "小田急多摩線",
-        "label": "たません",
+        "name": "小田急線（通勤）",
+        "label": "おだきゅうせん（つうきん）",
         "image": "assets/images/private-09.jpg",
-        "credit": "Wikimedia Commons",
-        "overlapGroup": "odakyu-main",
-        "isPrimary": false,
-        "primaryId": "private-08",
-        "overlapNote": "小田急小田原線と同系車両のため除外"
+        "credit": "Wikimedia Commons"
     },
     {
         "id": "private-10",
         "name": "東急東横線",
         "label": "とうよこせん",
-        "image": "assets/images/private-10.jpg",
+        "image": "assets/images/private-11.jpg",
         "credit": "Wikimedia Commons",
         "overlapGroup": "tokyu-toyoko",
         "isPrimary": true,
@@ -451,12 +443,12 @@
         "id": "private-17",
         "name": "西武池袋線",
         "label": "せいぶいけぶくろせん",
-        "image": "assets/images/private-17.jpg",
+        "image": "assets/images/private-19.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-ikebukuro",
+        "overlapGroup": "seibu-main",
         "isPrimary": true,
-        "overlapIds": ["private-23", "private-24"],
-        "overlapNote": "西武豊島線・西武有楽町線と同系車両のため統合"
+        "overlapIds": ["private-18", "private-19", "private-20", "private-21", "private-22", "private-23", "private-24"],
+        "overlapNote": "西武新宿線・西武拝島線・西武国分寺線・西武多摩湖線・西武西武園線・西武豊島線・西武有楽町線と同系車両のため統合"
     },
     {
         "id": "private-18",
@@ -464,10 +456,10 @@
         "label": "せいぶしんじゅくせん",
         "image": "assets/images/private-18.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-shinjuku",
-        "isPrimary": true,
-        "overlapIds": ["private-19", "private-20", "private-21", "private-22"],
-        "overlapNote": "西武拝島線・西武国分寺線・西武多摩湖線・西武西武園線と同系車両のため統合"
+        "overlapGroup": "seibu-main",
+        "isPrimary": false,
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-19",
@@ -475,10 +467,10 @@
         "label": "はいじません",
         "image": "assets/images/private-19.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-shinjuku",
+        "overlapGroup": "seibu-main",
         "isPrimary": false,
-        "primaryId": "private-18",
-        "overlapNote": "西武新宿線と同系車両のため除外"
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-20",
@@ -486,10 +478,10 @@
         "label": "こくぶんじせん",
         "image": "assets/images/private-20.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-shinjuku",
+        "overlapGroup": "seibu-main",
         "isPrimary": false,
-        "primaryId": "private-18",
-        "overlapNote": "西武新宿線と同系車両のため除外"
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-21",
@@ -497,10 +489,10 @@
         "label": "たまこせん",
         "image": "assets/images/private-21.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-shinjuku",
+        "overlapGroup": "seibu-main",
         "isPrimary": false,
-        "primaryId": "private-18",
-        "overlapNote": "西武新宿線と同系車両のため除外"
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-22",
@@ -508,10 +500,10 @@
         "label": "せいぶえんせん",
         "image": "assets/images/private-22.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-shinjuku",
+        "overlapGroup": "seibu-main",
         "isPrimary": false,
-        "primaryId": "private-18",
-        "overlapNote": "西武新宿線と同系車両のため除外"
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-23",
@@ -519,7 +511,7 @@
         "label": "せいぶとしません",
         "image": "assets/images/private-23.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-ikebukuro",
+        "overlapGroup": "seibu-main",
         "isPrimary": false,
         "primaryId": "private-17",
         "overlapNote": "西武池袋線と同系車両のため除外"
@@ -530,7 +522,7 @@
         "label": "せいぶゆうらくちょうせん",
         "image": "assets/images/private-24.jpg",
         "credit": "Wikimedia Commons",
-        "overlapGroup": "seibu-ikebukuro",
+        "overlapGroup": "seibu-main",
         "isPrimary": false,
         "primaryId": "private-17",
         "overlapNote": "西武池袋線と同系車両のため除外"
