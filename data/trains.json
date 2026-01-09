@@ -32,35 +32,55 @@
         "name": "総武快速線",
         "label": "そうぶかいそくせん",
         "image": "assets/images/jr-05.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-sobu-yokosuka",
+        "isPrimary": true,
+        "overlapIds": ["jr-06"],
+        "overlapNote": "横須賀線と同系車両のため統合"
     },
     {
         "id": "jr-06",
         "name": "横須賀線",
         "label": "よこすかせん",
         "image": "assets/images/jr-06.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-sobu-yokosuka",
+        "isPrimary": false,
+        "primaryId": "jr-05",
+        "overlapNote": "総武快速線と同系車両のため除外"
     },
     {
         "id": "jr-07",
         "name": "東海道線",
         "label": "とうかいどうせん",
         "image": "assets/images/jr-07.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-tokaido-uenotokyo",
+        "isPrimary": true,
+        "overlapIds": ["jr-08"],
+        "overlapNote": "上野東京ラインと同系車両のため統合"
     },
     {
         "id": "jr-08",
         "name": "上野東京ライン",
         "label": "うえのとうきょうらいん",
         "image": "assets/images/jr-08.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-tokaido-uenotokyo",
+        "isPrimary": false,
+        "primaryId": "jr-07",
+        "overlapNote": "東海道線と同系車両のため除外"
     },
     {
         "id": "jr-09",
         "name": "湘南新宿ライン",
         "label": "しょうなんしんじゅくらいん",
         "image": "assets/images/jr-09.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-shonan-utsunomiya-takasaki",
+        "isPrimary": true,
+        "overlapIds": ["jr-20", "jr-21"],
+        "overlapNote": "宇都宮線・高崎線と同系車両のため統合"
     },
     {
         "id": "jr-10",
@@ -137,14 +157,22 @@
         "name": "宇都宮線",
         "label": "うつのみやせん",
         "image": "assets/images/jr-20.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-shonan-utsunomiya-takasaki",
+        "isPrimary": false,
+        "primaryId": "jr-09",
+        "overlapNote": "湘南新宿ラインと同系車両のため除外"
     },
     {
         "id": "jr-21",
         "name": "高崎線",
         "label": "たかさきせん",
         "image": "assets/images/jr-21.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-shonan-utsunomiya-takasaki",
+        "isPrimary": false,
+        "primaryId": "jr-09",
+        "overlapNote": "湘南新宿ラインと同系車両のため除外"
     },
     {
         "id": "jr-22",
@@ -256,21 +284,33 @@
         "name": "京王線",
         "label": "けいおうせん",
         "image": "assets/images/private-01.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keio-main",
+        "isPrimary": true,
+        "overlapIds": ["private-02", "private-03", "private-05", "private-06", "private-07"],
+        "overlapNote": "京王線系統は同系車両のため統合"
     },
     {
         "id": "private-02",
         "name": "京王新線",
         "label": "けいおうしんせん",
         "image": "assets/images/private-02.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keio-main",
+        "isPrimary": false,
+        "primaryId": "private-01",
+        "overlapNote": "京王線と同系車両のため除外"
     },
     {
         "id": "private-03",
         "name": "京王相模原線",
         "label": "さがみはらせん",
         "image": "assets/images/private-03.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keio-main",
+        "isPrimary": false,
+        "primaryId": "private-01",
+        "overlapNote": "京王線と同系車両のため除外"
     },
     {
         "id": "private-04",
@@ -284,77 +324,121 @@
         "name": "京王高尾線",
         "label": "たかおせん",
         "image": "assets/images/private-05.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keio-main",
+        "isPrimary": false,
+        "primaryId": "private-01",
+        "overlapNote": "京王線と同系車両のため除外"
     },
     {
         "id": "private-06",
         "name": "京王動物園線",
         "label": "けいおうどうぶつえんせん",
         "image": "assets/images/private-06.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keio-main",
+        "isPrimary": false,
+        "primaryId": "private-01",
+        "overlapNote": "京王線と同系車両のため除外"
     },
     {
         "id": "private-07",
         "name": "京王競馬場線",
         "label": "けいおうけいばじょうせん",
         "image": "assets/images/private-07.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keio-main",
+        "isPrimary": false,
+        "primaryId": "private-01",
+        "overlapNote": "京王線と同系車両のため除外"
     },
     {
         "id": "private-08",
         "name": "小田急小田原線",
         "label": "おだきゅうせん",
         "image": "assets/images/private-08.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "odakyu-main",
+        "isPrimary": true,
+        "overlapIds": ["private-09"],
+        "overlapNote": "小田急多摩線と同系車両のため統合"
     },
     {
         "id": "private-09",
         "name": "小田急多摩線",
         "label": "たません",
         "image": "assets/images/private-09.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "odakyu-main",
+        "isPrimary": false,
+        "primaryId": "private-08",
+        "overlapNote": "小田急小田原線と同系車両のため除外"
     },
     {
         "id": "private-10",
         "name": "東急東横線",
         "label": "とうよこせん",
         "image": "assets/images/private-10.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tokyu-toyoko",
+        "isPrimary": true,
+        "overlapIds": ["private-11"],
+        "overlapNote": "東急目黒線と同系車両のため統合"
     },
     {
         "id": "private-11",
         "name": "東急目黒線",
         "label": "めぐろせん",
         "image": "assets/images/private-11.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tokyu-toyoko",
+        "isPrimary": false,
+        "primaryId": "private-10",
+        "overlapNote": "東急東横線と同系車両のため除外"
     },
     {
         "id": "private-12",
         "name": "東急田園都市線",
         "label": "でんえんとしせん",
         "image": "assets/images/private-12.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tokyu-denentoshi",
+        "isPrimary": true,
+        "overlapIds": ["private-13"],
+        "overlapNote": "東急大井町線と同系車両のため統合"
     },
     {
         "id": "private-13",
         "name": "東急大井町線",
         "label": "おおいまちせん",
         "image": "assets/images/private-13.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tokyu-denentoshi",
+        "isPrimary": false,
+        "primaryId": "private-12",
+        "overlapNote": "東急田園都市線と同系車両のため除外"
     },
     {
         "id": "private-14",
         "name": "東急池上線",
         "label": "いけがみせん",
         "image": "assets/images/private-14.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tokyu-ikegami",
+        "isPrimary": true,
+        "overlapIds": ["private-15"],
+        "overlapNote": "東急多摩川線と同系車両のため統合"
     },
     {
         "id": "private-15",
         "name": "東急多摩川線",
         "label": "たまがわせん",
         "image": "assets/images/private-15.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tokyu-ikegami",
+        "isPrimary": false,
+        "primaryId": "private-14",
+        "overlapNote": "東急池上線と同系車両のため除外"
     },
     {
         "id": "private-16",
@@ -368,63 +452,99 @@
         "name": "西武池袋線",
         "label": "せいぶいけぶくろせん",
         "image": "assets/images/private-17.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-ikebukuro",
+        "isPrimary": true,
+        "overlapIds": ["private-23", "private-24"],
+        "overlapNote": "西武豊島線・西武有楽町線と同系車両のため統合"
     },
     {
         "id": "private-18",
         "name": "西武新宿線",
         "label": "せいぶしんじゅくせん",
         "image": "assets/images/private-18.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-shinjuku",
+        "isPrimary": true,
+        "overlapIds": ["private-19", "private-20", "private-21", "private-22"],
+        "overlapNote": "西武拝島線・西武国分寺線・西武多摩湖線・西武西武園線と同系車両のため統合"
     },
     {
         "id": "private-19",
         "name": "西武拝島線",
         "label": "はいじません",
         "image": "assets/images/private-19.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-shinjuku",
+        "isPrimary": false,
+        "primaryId": "private-18",
+        "overlapNote": "西武新宿線と同系車両のため除外"
     },
     {
         "id": "private-20",
         "name": "西武国分寺線",
         "label": "こくぶんじせん",
         "image": "assets/images/private-20.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-shinjuku",
+        "isPrimary": false,
+        "primaryId": "private-18",
+        "overlapNote": "西武新宿線と同系車両のため除外"
     },
     {
         "id": "private-21",
         "name": "西武多摩湖線",
         "label": "たまこせん",
         "image": "assets/images/private-21.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-shinjuku",
+        "isPrimary": false,
+        "primaryId": "private-18",
+        "overlapNote": "西武新宿線と同系車両のため除外"
     },
     {
         "id": "private-22",
         "name": "西武西武園線",
         "label": "せいぶえんせん",
         "image": "assets/images/private-22.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-shinjuku",
+        "isPrimary": false,
+        "primaryId": "private-18",
+        "overlapNote": "西武新宿線と同系車両のため除外"
     },
     {
         "id": "private-23",
         "name": "西武豊島線",
         "label": "せいぶとしません",
         "image": "assets/images/private-23.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-ikebukuro",
+        "isPrimary": false,
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-24",
         "name": "西武有楽町線",
         "label": "せいぶゆうらくちょうせん",
         "image": "assets/images/private-24.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "seibu-ikebukuro",
+        "isPrimary": false,
+        "primaryId": "private-17",
+        "overlapNote": "西武池袋線と同系車両のため除外"
     },
     {
         "id": "private-25",
         "name": "伊勢崎線（東武スカイツリーライン）",
         "label": "すかいつりーらいん",
         "image": "assets/images/private-25.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tobu-sky-tree",
+        "isPrimary": true,
+        "overlapIds": ["private-27", "private-28"],
+        "overlapNote": "東武亀戸線・東武大師線と同系車両のため統合"
     },
     {
         "id": "private-26",
@@ -438,56 +558,88 @@
         "name": "東武亀戸線",
         "label": "かめいどせん",
         "image": "assets/images/private-27.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tobu-sky-tree",
+        "isPrimary": false,
+        "primaryId": "private-25",
+        "overlapNote": "東武スカイツリーラインと同系車両のため除外"
     },
     {
         "id": "private-28",
         "name": "東武大師線",
         "label": "だいしせん",
         "image": "assets/images/private-28.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "tobu-sky-tree",
+        "isPrimary": false,
+        "primaryId": "private-25",
+        "overlapNote": "東武スカイツリーラインと同系車両のため除外"
     },
     {
         "id": "private-29",
         "name": "京成本線",
         "label": "けいせいほんせん",
         "image": "assets/images/private-29.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keisei-main",
+        "isPrimary": true,
+        "overlapIds": ["private-30", "private-31", "private-32"],
+        "overlapNote": "成田空港線・京成押上線・京成金町線と同系車両のため統合"
     },
     {
         "id": "private-30",
         "name": "成田空港線（成田スカイアクセス線）",
         "label": "すかいあくせすせん",
         "image": "assets/images/private-30.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keisei-main",
+        "isPrimary": false,
+        "primaryId": "private-29",
+        "overlapNote": "京成本線と同系車両のため除外"
     },
     {
         "id": "private-31",
         "name": "京成押上線",
         "label": "おしあげせん",
         "image": "assets/images/private-31.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keisei-main",
+        "isPrimary": false,
+        "primaryId": "private-29",
+        "overlapNote": "京成本線と同系車両のため除外"
     },
     {
         "id": "private-32",
         "name": "京成金町線",
         "label": "かなまちせん",
         "image": "assets/images/private-32.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keisei-main",
+        "isPrimary": false,
+        "primaryId": "private-29",
+        "overlapNote": "京成本線と同系車両のため除外"
     },
     {
         "id": "private-33",
         "name": "京急本線",
         "label": "けいきゅうせん",
         "image": "assets/images/private-33.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keikyu-main",
+        "isPrimary": true,
+        "overlapIds": ["private-34"],
+        "overlapNote": "京急空港線と同系車両のため統合"
     },
     {
         "id": "private-34",
         "name": "京急空港線",
         "label": "くうこうせん",
         "image": "assets/images/private-34.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "keikyu-main",
+        "isPrimary": false,
+        "primaryId": "private-33",
+        "overlapNote": "京急本線と同系車両のため除外"
     },
     {
         "id": "private-35",
