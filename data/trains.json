@@ -79,8 +79,8 @@
         "credit": "Wikimedia Commons",
         "overlapGroup": "jr-shonan-utsunomiya-takasaki",
         "isPrimary": true,
-        "overlapIds": ["jr-07", "jr-08", "jr-20", "jr-21"],
-        "overlapNote": "東海道線・上野東京ライン・宇都宮線・高崎線と同系車両のため統合"
+        "overlapIds": ["jr-07", "jr-08", "jr-17", "jr-20", "jr-21"],
+        "overlapNote": "東海道線・上野東京ライン・八高線・宇都宮線・高崎線と同系車両のため統合"
     },
     {
         "id": "jr-10",
@@ -136,7 +136,11 @@
         "name": "八高線",
         "label": "はちこうせん",
         "image": "assets/images/jr-17.jpg",
-        "credit": "Wikimedia Commons"
+        "credit": "Wikimedia Commons",
+        "overlapGroup": "jr-shonan-utsunomiya-takasaki",
+        "isPrimary": false,
+        "primaryId": "jr-09",
+        "overlapNote": "湘南新宿ラインと同系車両のため除外"
     },
     {
         "id": "jr-18",
